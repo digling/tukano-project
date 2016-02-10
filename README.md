@@ -1,6 +1,6 @@
 # Tukano-Project
 
-Reposotory for the Tukano project (discussions and automatic data analyses)
+Repository for the Tukano project (discussions and automatic data analyses)
 
 ## Issue Tracker and Mile Stones as Basic Organization Principle
 
