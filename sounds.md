@@ -5,4 +5,4 @@
 | ... | ... | ... | ... | ... | 
 
 
-Editing this file is very easy. Just click on teh "edit" symbol. In order to fill the table, just follow the template, and write stuff for one row in one line in the text, using the pipe symbol (|) with space to left and right (!) to indicate the start of a new row. 
+Editing this file is very easy. Just click on the "edit" symbol. In order to fill the table, just follow the template, and write stuff for one row in one line in the text, using the pipe symbol (|) with space to left and right (!) to indicate the start of a new row. 
