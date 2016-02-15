@@ -1,0 +1,681 @@
+id_record	ORP	ORF	PHM	FUN	TRA	TUP	TUS	TUE	SRC	REF	CSA	CSO
+0	0	0		posa	gente makú	pessoa macú	noun:persona makú	“Makú” noun:person	Metzeger 2000			
+1	0	0		musã	achiote	urucum	achiote	achiote, Bixa orellana	Metzeger 2000			
+	7	2		nipetiro	más de una cosa inanimada	todos	todos	all	Metzeger 2000			
+7	7	1		nipetiro	todo	todos	todos	all	Metzeger 2000			
+9	0	0		hoɲa	marañón	caju	marañón	Anacardium spp.	Metzeger 2000			
+10	0	0		waibɨkɨ	animal comestible	animal	animal	animal	Metzeger 2000		feminine waibɨkɨo	
+12	0	0		ãɲa dobea	tobillo	tornozelo	tobillo	ankle	Metzeger 2000			
+13	0	0		ãɲa jɨra	tobillo	tornozelo	tobillo	ankle	Metzeger 2000			
+14	0	0		pika	chirimoya,Guanábana, especie de fruta cultivada, con cáscara espinosa, pulpa blanca y dulce; parecida a la guanábana	pinha, graviola	waituto, guanábana	Annona squamosa, Annona muricata	Metzeger 2000			
+15	805	1		bɨko	oso hormiguero	tamanduá-bandeira	oso hormiguero	anteater, Myrmecophaga spp.	Metzeger 2000			
+17	486	1		hɨ̃ɨ̃	caracol	caramujo	caracol del agua	aquatic snail	Metzeger 2000			
+18	0	0		riká	brazo	braço	brazo	arm	Metzeger 2000			
+20	0	0		pãmo	armadillo	tatu	armadillo, carachupa, gurre	armadillo, general	Metzeger 2000			
+22	24	1		eta	llegar	chegar	llegar	arrive	Metzeger 2000			
+23	24	2		eta	llegar	chegar (meta distante)	llegar (allá)	arrive, distal goal	Metzeger 2000			
+24	24	3		eta	llegar	chegar (meta próxima)	llegar (acá)	arrive, proximal goal	Metzeger 2000			
+25	0	0		jeruɨ	flecha	flecha	flecha	arrow	Metzeger 2000			
+26	0	0		õwã	ceniza	cinzas	ceniza	ashes	Metzeger 2000			
+27	0	0		hẽniɲa	preguntar	perguntar	preguntar	ask, question	Metzeger 2000			
+28	0	0		hẽni	pedir, rogar	pedir	pedir	ask, request	Metzeger 2000			
+33	0	0		ũɲu	aguacate	abacate	palta, aguacate	avocado	Metzeger 2000			ũɲua 'una aguacate', pl. ũɲu rupaa
+34	0	0		kõmea	hacha	machado	hacha	axe	Metzeger 2000			
+35	0	0		hõkɨ̃	espalda	costas	espalda	back	Metzeger 2000			
+38	0	0		jahé	bebida alucinógena, capi	ayawaska, capi	ayahuasca	Banisteriopsis caapi	Metzeger 2000		borrowing tcc	
+39	0	0		jukɨ asero	corteza	casca, de árvore	corteza, carapa	bark, of tree	Metzeger 2000			
+40	0	0		pii	canasta	cesto	cesto, canasta	basket	Metzeger 2000			
+41	0	0		oso	murciélago	morcego	murcielago	bat	Metzeger 2000			
+42	0	0		usa	bañarse	banhar-se	banarse	bathe	Metzeger 2000			
+43	0	0		asia	enojarse	ter raiva	rabiar, enojarse	be angry	Metzeger 2000			
+44	0	0		ɲueta	ser, estar malo, mala	mal	estar malo	be bad	Metzeger 2000			
+45	0	0		pija	ser, estar amargo, amarga	amargo	amargo	be bitter	Metzeger 2000		see cognates with SOUR tcc	
+46	0	0		ɲii	negro, negra	preto	negro	be black	Metzeger 2000			
+47	853	1		hɨ̃me	ser, estar azul	azul	azul	be blue	Metzeger 2000			
+48	0	0		buia	nacer	nascer	nacer	be born	Metzeger 2000			
+49	0	0	dã'ĩ́tĩ́ã́	na'ĩ́tĩ́ã́	oscuro	escuro	oscuro	be dark, be night	H&R 1992			
+50	0	0		ɨ̃kɨ̃ã	ser, estar hondo, honda	ser fundo	ser hondo	be deep	Metzeger 2000			
+52	0	0		kũmu	emborracharse	estar bebado	(estar) mareado, borracho, ebrio	be drunk	Metzeger 2000			
+53	658	1		hãɲa	vestirse		estar metido, vestirse (ropa), llevarse (ropa)	be encased in sth, wear clothes	Metzeger 2000			
+54	0	0		ɲu	ser, estar bueno, buena	ser, estar bom	ser, estar bueno	be good	Metzeger 2000			
+56	0	0		ɨseani	ser, estar alegre, sentirse alegre, ser, estar feliz	estar feliz	estar felíz	be happy	Metzeger 2000			
+57	0	0		ɨsɨ	ser, estar duro, dura	ser duro	ser, estar duro	be hard	Metzeger 2000			
+58	0	0		nɨkɨ̃	pesado, pesada	ser pesado	ser pesado	be heavy	Metzeger 2000			
+59	0	0		keja	tener hambre	ter fome	tener hambre	be hungry	Metzeger 2000			
+61	62	1		pupea	adentro	estar dentro (espaço fechado)	estar adentro (de un espacio cerrado)	be inside closed space, stative	Metzeger 2000			
+62	62	2		pupea	adentro	estar dentro	estar adentro	be inside nonclosed space, stative	Metzeger 2000			
+63	0	0		teeje pai	ser, estar perezoso, perezosa	ser preguiçoso	perezoso, flojo	be lazy	Metzeger 2000			
+64	0	0		jowe	ser, estar largo, larga	ser longo	ser largo	be long	Metzeger 2000			
+66	504	1		josa	acostarse	estar deitado	acostarse	be lying (on surface)	Metzeger 2000			
+67	67	2	ésá	ésá	estrecho	ser estreito	estrecho, angusto	be narrow	H&R 1992		esa in metzeger 2000 is «wide»	
+69	732	1		husu	tener olor, bueno o feo	ter cheiro	estar oloroso	be odorous (fragrant)	Metzeger 2000			
+72	0	0		bairi rupaɨ	embarazada	estar grávida	estar embarazada, preñada, encinta	be pregnant	Metzeger 2000			
+73	100	1		boti	madurar	estar maduro, amadurecer	(estar) maduro	be ripe	Metzeger 2000			
+75	0	0		japapua	ser, estar triste	estar triste	estar triste, tener pena	be sad	Metzeger 2000			
+77	0	0		o	ser, estar afilado, afilada	estar afiado	tener filo, estar filoso/afilado	be sharp (of edge)	Metzeger 2000			
+78	0	0		asija	brillar	brilhar, brilhante	brillar	be shiny, reflect light, speaking of sth that is not a light source, such as metal	Metzeger 2000			
+79	0	0		ria	enfermarse	doente, adoecer	enfermarse	be sick	Metzeger 2000			
+80	727	1		rui	sentarse	estar sentado	estar sentado	be sitting, stative	Metzeger 2000			
+82	0	0	õ'kãĩãka	õ'kãĩãka	pequeño	pequeno	pequeño	be small	H&R 1992			
+83	0	0		jabe	ser, estar liso, lisa		liso	be smooth	Metzeger 2000			
+84	0	0		aba	ser, estar blando, blanda	macio, mole	ser, estar suave, blando	be soft	Metzeger 2000			
+85	0	0		hɨ̃gẽ	ser, estar agrio, agria		agrio	be sour	Metzeger 2000		see cognates with BITTER in other ET TCC	
+86	780	1		tua nɨkã	pararse		estar de pie, pararse	be standing up	Metzeger 2000			
+87	0	0		ɨ̃ni	heder		apestar (heder)	be stinky, issue a bad smell	Metzeger 2000			
+88	0	0		tutua	tener fuerza		tener fuerza	be strong, powerful	Metzeger 2000			
+89	0	0		ipiti	dulce		dulce	be sweet	Metzeger 2000			
+90	0	0		ɨsa	sabroso, sabrosa		sabroso	be tasty	Metzeger 2000			
+91	0	0		ɲemehipi	tener sed		tener sed	be thirsty	Metzeger 2000			
+92	0	0		hɨti	ser, estar cansado, cansada		(estar) cansado	be tired, be fatigued from activity	Metzeger 2000			
+94	0	0		átiheja	acostumbrarse		acostumbrarse	be used to	Metzeger 2000			
+96	0	0		bau ~ baueta	aparecer		ser visible, aparecer	be visible, appear	Metzeger 2000			
+97	0	0	'ási	'ási	caliente		caliente	be warm, hot, of weather or obj	H&R 1992			
+99	0	0		weja	mojarse		mojado	be wet	Metzeger 2000			
+100	100	2		boti	blanco, blanca		blanco	be white	Metzeger 2000			
+101	67	1		esa	ser, estar ancho, ancha		ancho	be wide	Metzeger 2000		esa in H&R is 'narrow'	
+102	0	0		ewa	ser, estar amarillo, amarilla		amarillo	be yellow	Metzeger 2000			
+104	0	0		rise poawẽ	barbas		barba	beard	Metzeger 2000			
+107	0	0		beroamɨ	abeja común		abeja	bee	Metzeger 2000			plural beroa
+108	0	0		momiamɨ	abeja de miel		abeja	bee	Metzeger 2000			plural momia
+112	0	0		ɨta poa	estômago, barriga	barriga	barriga	belly	Metzeger 2000			
+111	0	0		paaro	barriga	barriga	barriga	belly	Metzeger 2000			
+113	0	0	'hõmɨã	hõmɨa	ombligo	umbigo	ombligo	belly button (navel)	H&R 1992			
+114	0	0		kũmurõ	banco	banco	banco	bench	Metzeger 2000			
+116	0	0		pai	grande, masa o existencial	grande	grande	big	Metzeger 2000			
+115	0	0		paka	grande, unidad	grande	grande	big	Metzeger 2000			
+117	0	0		mini	ave, pájaro	pássaro	pajaro, ave	bird, general	Metzeger 2000			
+118	0	0		baka	morder	morder	morder	bite, general	Metzeger 2000			
+121	675	1		rií	sangre	sangue	sangre	blood	Metzeger 2000			
+122	427	1		púti	soplar	soprar	soplar	blow (with mouth), shoot blowgun	Metzeger 2000			
+125	0	0		bupua	cerbatana	zarabatana	cerbatana, bodoquera, pucuna	blowgun	Metzeger 2000			plural bupua yukɨri
+128	210	1		roa	hervir	ferver	hervir	boil (VI)	Metzeger 2000		cognate with ET to cook	
+129	0	0		õwãrõ	hueso	osso	hueso	bone	Metzeger 2000			
+130	900	1		beko	gusano	tapuru	gusano	botfly larva, lives in animal	Metzeger 2000			
+132	0	0		jeru beto	arco	arco	arco, balista	bow	Metzeger 2000			
+131	0	0		wẽrĩkã beto	arco	arco	arco, balista	bow	Metzeger 2000			
+134	0	0		rɨpɨ	rama	galho	rama	branch	Metzeger 2000			
+135	0	0		wati	romperse		romperse	break (VI)	Metzeger 2000			
+136	138	1		wati	romperse		romperse, desbaratar	break (VI) in many pieces, of sth rigid and 2D	Metzeger 2000			
+137	138	2		wati	romperse		romperse, chancarse	break (VI), of sth rigid and 3D such as an egg, NON-PLACT	Metzeger 2000			
+138	138	3		wati	romperse		romperse, chancarse	break (VI), of sth rigid and 3D such as an egg, NON-PLACT	Metzeger 2000			
+	307	3		pee	quebrarse		romper, quebrar	break (VT)	Metzeger 2000			
+143	307	1		pee	quebrarse		quebrar	break (VT), of sth rigid, without complete break; as you break branches to indicate path	Metzeger 2000			
+	144	2		õpẽã	pezón		seno	breast	Metzeger 2000			
+144	144	1		õpẽã ~ ũpẽã	pecho 		seno	breast	Metzeger 2000			
+	144	3		õpẽã ~ ũpẽã	tetilla		seno	breast	Metzeger 2000			
+180	180	1		õpẽã ~ ũpẽã	pecho 		seno	breast	Metzeger 2000			
+	180	2		õpẽã ~ ũpẽã	pezón		seno	breast	Metzeger 2000			
+	180	3		õpẽã ~ ũpẽã	tetilla		seno	breast	Metzeger 2000			
+	147	2		õpũ ~ ũpũ	chupar		mamar	breastfeed, of baby	Metzeger 2000			
+147	147	1		õpũ ~ ũpũ	mamar		mamar	breastfeed, of baby	Metzeger 2000			
+149	0	0		jeri hĩnihã	respirar	respirar	respirar	breathe	Metzeger 2000			
+152	0	0		tẽɲɨ	cuñado		cuñado	brother-in-law	Metzeger 2000			
+153	0	0		ɨ̃	quemarse		quemarse	burn, be on fire, VI	Metzeger 2000			
+154	0	0		hoe	quemar	queimar	quemar	burn, consume with fire, VT	Metzeger 2000			
+155	292	1		tati	reventarse		reventar, estallar, p.ej una ampolla	burst, break open, of a container or blister (VI), NON-PLACT	Metzeger 2000			
+157	597	1		jaa	enterrar		enterrar	bury	Metzeger 2000			
+158	597	2		jaa	enterrar		enterrar	bury	Metzeger 2000			
+159	0	0		momorõ	mariposa		mariposa	butterfly	Metzeger 2000			
+160	0	0		isia	nalga		nalga	buttocks	Metzeger 2000			
+161	0	0		ɨso	caimán		caimán, babilla, lagarto	caiman, Caiman spp.	Metzeger 2000			
+163	0	0		pii	llamar		llamar a	call (VT)	Metzeger 2000			
+164	0	0		kũmua	canoa		canoa	canoe	Metzeger 2000			
+167	0	0		ake	mono maicero		mono blanco/neɡro, mico maicero	capuchin monkey, Cebus, Sapajus spp	Metzeger 2000		feminine akeo	
+166	0	0		ake posaɨ 	mono maicero		mono blanco/neɡro, mico maicero	capuchin monkey, Cebus, Sapajus spp	Metzeger 2000		feminine ake posao	
+2	0	0		ejorojoa	Carayurú,planta y el pigmento rojo de sus semillas	carajuru	carayuru	carayuru	Metzeger 2000			
+170	0	0		ne	cargar, llevar		cargar, acarrear, llevar	carry (general)	Metzeger 2000			
+172	0	0		ũma	cargar, llevar en la espalda		cargar en la espalda	carry (on back)	Metzeger 2000			
+173	804	1		pɨsa	cargar, llevar al hombro		cargar en el hombro, hombrear	carry (on shoulder)	Metzeger 2000			
+175	0	0		ĩɲaamɨ	oruga		oruga, bayuca	caterpillar	Metzeger 2000			
+176	555	1		muni	ciempiés, centípedo		ciempiés (escolopendra)	centipede	Metzeger 2000			
+178	0	0		wasopana	mejilla		mejilla	cheek	Metzeger 2000			
+179	0	0		kotia	pecho		pecho	chest	Metzeger 2000			
+183	0	0		baku	masticar		masticar	chew sth soft, chew to a mash, as manioc in making manioc beer	Metzeger 2000			
+185	0	0		ketiupaɨ	cacique, capitán, jefe		jefe, cacique, apu, capitán	chief (leader)	Metzeger 2000		feminine ketiupao	
+187	0	0		ka-wĩmaɨ	niña, bebé		niño	child	Metzeger 2000		feminine ka-wĩmao	
+188	0	0		bia	ají		ají, pimiento, chile	chili pepper, Capsicum spp.	Metzeger 2000			
+190	0	0		rise putia	mentón		mentón, barbilla	chin	Metzeger 2000			
+189	0	0		risetɨ	barbilla		mentón, barbilla	chin	Metzeger 2000			
+191	235	1		pahure	machetear, limpiar con machete		rozar	clear land	Metzeger 2000			
+192	0	0		bia	cerrar		cerrar	close (VT), NON-PLACT	Metzeger 2000			
+196	0	0		hutii pãĩ	tela		tela, corte de tela	cloth	Metzeger 2000			
+197	0	0		oko poa	nube	nuvem	nube	cloud	Metzeger 2000			
+200	0	0		asearo	cucaracha		cucaracha	cockroach	Metzeger 2000			
+202	0	0		jisia ~ jɨsɨa	frío, fría		frío	cold	Metzeger 2000			
+203	0	0		wɨ̃nɨ rɨ̃mɨ	época lluviosa, días de San Juan, estación de frío en el mes de julio		friaje	cold snap Sp “friaje”	Metzeger 2000			
+204	0	0		wɨsaɨ rɨ̃mɨ	época lluviosa, días de San Juan, estación de frío en el mes de julio		friaje	cold snap Sp “friaje”	Metzeger 2000			
+205	0	0		kapoa	tubérculo comestible, chonque		(a)chonque, mandi, huitina, papa china	Colocasia sp, taro	Metzeger 2000			
+206	0	0		wɨga peo	peinar		peinarse	comb hair (V)	Metzeger 2000			
+207	0	0		atá	venir		venir	come	Metzeger 2000			
+208	0	0		bɨsɨ pẽni	conversar, charlar		conversar	converse	Metzeger 2000			
+210	210	2		roa	hervir		cocinar (hervir)	cook by boiling, cause sth to boil	Metzeger 2000			
+211	736	1		pɨ̃õ	asar		cocinar (asar)	cook sth by roastng	Metzeger 2000			
+212	0	0		ãsɨ̃	curar carne al humo, muquear		cocinar, asar en patarashca	cook sth in leaves	Metzeger 2000			
+213	210	3		roa	cocinar		cocinar, cocer	cook, general (VT)	Metzeger 2000			
+215	0	0		orika	milho		maiz	corn	Metzeger 2000			
+216	0	0		ka-riape	verdade		correcto, verdad	correct, right, true	Metzeger 2000			
+217	475	1		busa	algodão		algodón	cotton	Metzeger 2000			
+218	0	0		hati	tossir		toser, tosear	cough	Metzeger 2000			
+	219	2		kõɲa	contar		contar, medir	count, measure	Metzeger 2000			
+	219	3		kõɲa	enumerar		contar, medir	count, measure	Metzeger 2000			
+219	219	1		kõɲa	medir		contar, medir	count, measure	Metzeger 2000			
+220	0	0		bɨga	tampar		cubrir (tapar)	cover (a hole)	Metzeger 2000			
+223	490	1		peo	colocar encima, dejar encima, poner encima		cubrir	cover (with sth 3D), put on hat	Metzeger 2000			
+224	0	0		ãpĩ	caranguejo		cangrejo	crab	Metzeger 2000			
+226	0	0		jesero	grilo, gafanhoto		grillo, saltamontes	cricket, grasshopper	Metzeger 2000			
+228	0	0		pẽɲa	atravessar		cruzar el rio	cross river	Metzeger 2000			
+229	565	1		mɨgõ	tía		tia, hermana del padre	cross-aunt	Metzeger 2000			
+230	319	1		mɨgɨ̃	tío		tio, hermano de madre	cross-uncle	Metzeger 2000			
+231	0	0		tãni	esmagar		aplastar	crush sth hard, squash, e.g. a spider (VT)	Metzeger 2000			
+232	0	0		oti	chorar		llorar	cry	Metzeger 2000			
+233	0	0		wãnopĩ	mutum		paujil	currasow, Crax spp	Metzeger 2000			
+234	0	0		jise	cortar		cortar	cut (general)	Metzeger 2000			
+235	235	2		pahure	cortar uma área com o machado		cortar	cut (general)	Metzger 2000			
+236	0	0		ketí	tumbar árbol		cortar (tumbar, derrumbar, rebanar,)	cut, cut down, fell tree (trans)	Metzeger 2000			
+237	0	0		pawa	despedazar		descuartizar, pedacear, cortar	cut, divide carcass into parts	Metzeger 2000			
+238	0	0		pataa	hachear		retalear, cortar	cut, make cuts on the surface of obj	Metzeger 2000			
+239	759	1		jiseta	cortar e dividir em partes		trozar, cortar, pedacear	cut, of hard object, into many pieces of similar size, e.g. a log; whether down central axis or not	Metzeger 2000			
+241	742	1		makɨ̃	filho masculino ou feminino		hija	daughter	Metzeger 2000			
+242	0	0		pũnaa ɨ̃mɨa	filha		hija	daughter	Metzeger 2000			
+243	0	0		buiako	nora		nuera	daughter-in-law	Metzeger 2000			
+245	0	0		ĩto	enganar		engañar	deceive	Metzeger 2000			
+246	0	0		ɲama kahõãɨ̃	veado vermelho		venado	deer	Metzeger 2000			
+247	0	0		ɨ̃na	defecar		defecar	defecate	Metzeger 2000			
+249	708	1		wãtĩ	demonio		espiritu malo, demonio	demon/evil spirit	Metzeger 2000			
+250	0	0		bairoka	morrer		morir	die, NON-PLACT	Metzeger 2000			pl. bairerike, baysirike
+253	0	0	jesea	jesea	dig		cavar	dig	H&R 1992			
+255	269	1		ɨgeri	sujeira	sujeira	suciedad, mugre	dirt, filth (N)	Metzeger 2000			
+256	0	0		ruti	huir		desaparecer	disappear	Metzeger 2000			
+258	0	0		re	descartar mais de uma coisa inanimada		botar	discard	Metzger 2000			
+257	825	1		roka	descartar uma coisa inanimada		botar	discard	Metzeger 2000			
+259	0	0		áta	hacer		hacer	do	Metzeger 2000			
+261	0	0		kanuɨ	mascote		animal domesticado, mascota	domesticated animal, pet	Metzeger 2000			
+262	0	0		hope	puerta		puerta	door	Metzeger 2000			
+263	0	0		ka-roka	rio abajo		río abajo	downriver	Metzeger 2000			suf. pɨ
+264	0	0		eti	beber		beber, tomar	drink	Metzeger 2000			
+266	0	0		ɲo	deixar cair		dejar caer	drop, NON-PLACT	Metzeger 2000			
+268	393	1		bopo	secar se	secar-se	secarse	dry (VI)	Metzeger 2000			
+269	269	2	ɨgeri	ɨgeri	dust	poeira	polvo	dust, fine dirt	H&R 1992			
+271	0	0		ãmoorõ	orelha		oreja	ear	Metzeger 2000			
+272	0	0		ɲerĩ	tierra	terra	tierra	earth, dirt, mud, soil	Metzeger 2000			
+273	0	0		jepa	terreno		tierra	earth, extension of land	Metzeger 2000			
+275	0	0		ɨga	comer	comer	comer	eat	Metzeger 2000			
+278	0	0		riá	ovo		huevo	egg	Metzeger 2000			
+279	0	0		riká hãrĩkã	cotovelo		codo	elbow	Metzeger 2000			
+280	0	0		pabario	abraçar		abrazar	embrace, hug	Metzeger 2000			
+281	746	1		bɨsɨ	soar		sonar	emit noise, sound	Metzeger 2000			
+282	0	0	japa	japa	punta		punta	end/tip, relational N	H&R 1992			
+283	284	1		hãã	entrar		entrar	enter	Metzeger 2000			
+284	284	2		hãã	entrar		entrar	enter (a closed space, telic V)	Metzeger 2000			
+287	0	0	patu	patu	coca		coca	Erythroxylum coca	H&R 1992			
+289	509	1		ãnã	existir		haber, existir	existential verb	Metzeger 2000			
+290	0	0		ako átá	sair		salir	exit	Metzeger 2000			
+291	0	0		witi	sair de dentro		salir	exit (a closed space, telic verb:motion verb)	Metzeger 2000			
+292	292	2		tati	abrir-se		reventar, abrirse	expand, open, e.g of a flower or canoe, VI	Metzeger 2000			
+293	0	0		kaapea	olho	olho	ojo	eye	Metzeger 2000			
+294	0	0		diapóa	rosto		cara	face	Metzeger 2000			
+296	0	0		budu	cair sozinho	cair	caer	fall, NON-PLACT	Metzeger 2000			
+302	0	0		dúupĩã	cair desenterrando	cair	caer	fall, NON-PLACT	Metzeger 2000			
+304	0	0		joo	cair em armadilha	cair	caer	fall, NON-PLACT	Metzeger 2000			
+295	0	0		ɲaa	caer	cair	caer	fall, NON-PLACT	Metzeger 2000			
+306	0	0		ɲaa batedia	cair sentado	cair	caer	fall, NON-PLACT	Metzeger 2000			
+308	0	0		ɲaa pea	cair sobre algo	cair	caer	fall, NON-PLACT	Metzeger 2000			
+300	0	0		ɲaakodia	cair do alto no chão	cair	caer	fall, NON-PLACT	Metzeger 2000			
+299	0	0		ɲaakũmu	cair no chão	cair	caer	fall, NON-PLACT	Metzeger 2000			
+298	0	0		ɲaaɲuã	cair na água	cair	caer	fall, NON-PLACT	Metzeger 2000			
+303	0	0		ɲaasã	cair em algo	cair	caer	fall, NON-PLACT	Metzeger 2000			
+297	0	0		õmasãnɨkõ	cair água com muita velocidade ou pressão	cair	caer	fall, NON-PLACT	Metzeger 2000			
+307	307	2		pee	cair sem perder contato com a base	cair	caer	fall, NON-PLACT	Metzeger 2000			
+301	0	0		peekũmú	cair algo que não se levanta	cair	caer	fall, NON-PLACT	Metzeger 2000			
+305	0	0		tóõ	cair em cima	cair	caer	fall, NON-PLACT	Metzeger 2000			
+310	0	0		ɲokãperó	abanico		abanico	fan	Metzeger 2000			
+	311	2		joa	estar lejos, estar largo	longe	lejos	far	Metzeger 2000			
+311	311	1		joaro	lejos	longe	lejos	far	Metzeger 2000			
+313	0	0		poewa ~ poea	rápido		rápido	fast	Metzeger 2000			
+315	0	0		ɨseoko	manteiga	gordura	grasa, manteca	fat, grease	Metzeger 2000			
+317	0	0		pakɨ	pai	pai	padre	father	Metzeger 2000			
+318	0	0		maɲikɨ̃ 	suegro		suegro	father-in-law	Metzeger 2000		feminine maɲikõ	
+319	319	2		mɨgɨ̃	tio		tío, hermano del padre	father's brother	Metzeger 2000			
+320	0	0		uwi	tener miedo	ter medo	tener miedo	fear	Metzeger 2000			
+321	0	0		ɨta	excremento		heces, excremento, materia fecal, mierda	feces	Metzeger 2000			
+322	0	0		nu	dar de comer, alimentar		alimentar, dar de comer	feed, offer noun:food (trans)	Metzeger 2000			
+323	0	0	asi	asi	hot		tener calor	feel hot, of noun:person	H&R 1992			
+325	0	0		peeto	pouco	pouco(s)	poco(s)	few	Metzeger 2000			
+326	0	0		ãmeo kẽ	brigar		pelear	fight	Metzeger 2000			
+327	0	0		ãmeo pajĩãeĩkẽ	lutar		pelear	fight	Metzeger 2000			
+328	330	1	'hírá	'hírá	lleno		llenar	fill (VI)	H&R 1992			
+329	0	0	japi koa	japi koa	lleno		llenar	fill (VI)	H&R 1992			
+330	330	2	'hírá	'hírá	lleno		llenar	fill (VT)	H&R 1992			
+331	0	0	japi koa	japi koa	lleno		llenar	fill (VT)	H&R 1992			
+332	586	1		bóka	encontrar uma coisa inanimada		encontrar, hallar	find object	Metzeger 2000			
+333	0	0		boká	encontrar um ao outro		reunir, encontrar, hallar, topar	find, meet noun:person	Metzeger 2000			
+334	835	1		rɨpo jõã	dedo do pé		dedo	finger	Metzeger 2000			
+335	0	0		wãmo jõã asero	unha do dedo da mão		uña, garra	fingernail/toenail/claw	Metzeger 2000			
+336	0	0		peti	se acabar		acabar/terminar	finish (VI)	Metzeger 2000			
+337	0	0		átijaparo	terminar		acabar, terminar (completar)	finish (VT)	Metzeger 2000			
+339	0	0		peero	fogo	fogo	fuego	fire	Metzeger 2000			
+340	0	0		kutupe	luciérnaga		luciérnaga	firefly, Lampyris sp.	Metzeger 2000			
+341	0	0		pee	lenha		leña	firewood	Metzeger 2000			
+342	0	0		kaãni hɨ̃goro	primeiro		primero	first	Metzeger 2000			
+343	0	0		wai	peixe	peixe	pez	fish (N)	Metzeger 2000			
+344	0	0		wai pua	pescar com barbasco		barbasquear, pescar con veneno	fish (with barbasco)	Metzeger 2000			
+345	0	0		wai we	pescar com vara		anzuelear, pescar con anzuelo, pescar con vara	fish (with line)	Metzeger 2000			
+347	0	0		wai werika	anzuelo		anzuelo	fish hook	Metzeger 2000			
+348	0	0		esu	barbasco		barbasco	fish poison, Sp “barbasco”, Tephrosia sp.	Metzeger 2000			
+349	0	0		bapii	rede para pescar		red de pescar, tarrafa, atarraya	fishing net	Metzeger 2000			
+351	0	0		ɨ̃	se queimar, arder		arder	flame (VI)	Metzeger 2000			
+353	547	1		rii	carne		carne	flesh	Metzeger 2000			
+354	0	0		pasa	flutuar	flutuar	rebalsar, flotar	float	Metzeger 2000			
+357	0	0		oó	flor		flor	flower	Metzeger 2000			oóro 'una flor'
+359	0	0		tõrõã	flauta		flauta	flute	Metzeger 2000			
+360	0	0		wɨ	voar		volar	fly	Metzeger 2000			
+361	0	0		ɨsa	seguir	seguir, perseguir	seguir, atrasar	follow person, follow group	Metzeger 2000			
+363	0	0		ɨgarike	comida		comida	food	Metzeger 2000			
+364	0	0		rɨpo	pé		pie	foot	Metzeger 2000			
+366	0	0		riapé	testa		frente	forehead	Metzeger 2000			
+	366	0		riapé	rosto		frente	forehead	Metzeger 2000			
+367	0	0		makãnɨkɨ̃	selva, bosque		bosque	forest	Metzeger 2000			
+368	0	1		bapa	amigo		amigo, compañero, paisano	friend, companion	Metzeger 2000			
+	368	2		bapa	companheiro		amigo, compañero, paisano	friend, companion	Metzeger 2000			
+	368	3		bapa	par		amigo, compañero, paisano	friend, companion	Metzeger 2000			
+371	0	0		momoamɨ	rana		rana, sapo	frog, toad	Metzeger 2000			
+370	0	0		tɨbɨro	sapo		rana, sapo	frog, toad	Metzeger 2000			
+372	0	0	'ka-rika	'ka-rika	fruta		fruta	fruit	H&R 1992			
+375	0	0		ate	tostar		freír	fry (VT)	Metzeger 2000			
+377	0	0		wese	roça		chacra	garden	Metzeger 2000			
+379	0	0		neɲo	juntar		reunir	gather (many people, VI)	Metzeger 2000			
+380	0	0		hee	coletar		cosechar, juntar	gather, collect (VT)	Metzeger 2000			
+382	817	1		mui	caranã	ubím	??	Geonoma baculifera	Metzeger 2000			
+383	0	0		bɨti	brotar		brotar, crecer, retoñar	germinate, sprout, of noun:plant or feathers	Metzeger 2000			
+384	0	0		ɲua	se submergir		sumergirse, hundirse, sumirse	get in water, VI, telic, NON-PLACT	Metzeger 2000			
+387	0	0		wãmo jija	se casar		casarse	get married	Metzeger 2000			
+390	0	0		ho	dar		dar	give	Metzeger 2000			
+389	0	0		ti	dar		dar	give	Metzeger 2000			
+391	0	0		átáje	ir		ir	go	Metzeger 2000			
+392	727	2		rui	descer		bajar (descender)	go down, vertical	Metzeger 2000		SEE COGNATES WITH DOWNRIVER AND SIT	
+393	393	2		bopo	descer o rio		bajar (ir aguas abajo)	go downriver	Metzeger 2000			
+394	0	0		toátáje	ir rio abaixo		bajar (ir aguas abajo)	go downriver	Metzeger 2000			
+395	396	1		wãmɨ	subir		subir	go up, vertical	Metzeger 2000			
+396	396	2		wãmɨ	ir rio acima		surcar (ir aguas arriba)	go upriver	Metzeger 2000			
+397	0	0		waaro	calabaza		pate, totouma, calabaza	gourd vessel Sp “pate”	Metzeger 2000			
+398	442	1		ɲe	agarrar		agarrar, arrancar	grab, close the hand around sth, telic and punctual, NON-PLACT	Metzeger 2000			
+400	442	2		ɲe	pegar, colher, tomar		agarrar, alcanzar, recoger	grab, get, make verb:motion to take sth	Metzeger 2000			
+401	0	0		pãrãmi 	neto		nieto, nieta	grandchild	Metzeger 2000		feminine pãrãmeo	
+403	0	0		ɲikɨ̃	avô		abuela, abuelo	grandparent	Metzeger 2000		feminine ɲikõ	
+405	0	0		taa	capim, pasto		hierba	grass	Metzeger 2000			
+406	853	2		hɨ̃me	ser ou estar verde ser ou estar azul		verde	green	Metzeger 2000			
+407	0	0	kasa	kasa	jirau		parilla, barbacoa	grill, barbeque	H&R 1992			
+408	0	0		wãĩã	moer		moler	grind	Metzeger 2000			
+409	410	1		bɨkɨá	crescer animal , vegetal		crecer, engordar	grow, get fat, of animate	Metzeger 2000			
+410	410	2		bɨkɨá	crescer animal , vegetal		crecer	grow, of noun:plant, NOT germinate, VI	Metzeger 2000			
+411	0	0		haa	muxiva		suri, mojojoy	grub, lives in palm wood	Metzeger 2000			
+413	0	0		poa	cabelo		pelo, cabello	hair	Metzeger 2000			
+414	0	0		pũɨ̃	rede de dormir		hamaca	hammock	Metzeger 2000			
+415	0	0		wãmo	mão		mano	hand	Metzeger 2000			
+416	0	0		jo	pendurar		colgar	hang up (VT, punctual), NON-PLACT	Metzeger 2000			
+418	0	0		bɨgo	ter febre		tener fiebre	have a fever	Metzeger 2000			
+419	0	0		jopotaje	diarréia		tener diarrea	have diarrhea	Metzeger 2000			
+420	0	0		manapɨ kɨtaje	ter esposo		tener (pariente)	have in kinship relation	Metzeger 2000			
+421	0	0		nɨmo kɨtaje	ter esposa		tener (pariente)	have in kinship relation	Metzeger 2000			
+422	0	0		kɨgo	ter		tener	have object	Metzeger 2000			
+423	0	0		rɨpoa	cabeça		cabeza	head	Metzeger 2000			
+424	0	0		pote	cabeceira		cabeceras	headwater	Metzeger 2000			posssui o prefixo pɨ
+425	0	0		ɨko ti	tratar com medicina		tratar con medicina, dar remedio, curar	heal (VT) with medicine	Metzeger 2000			
+426	0	0		base	invocar benedición espiritual		curar, soplar, rezar sobre alguien, etc.	heal (VT) with tobacco smoke, etc.	Metzeger 2000			
+427	427	2		púti	soprar a ferida		curar, soplar, rezar sobre alguien, etc.	heal (VT) with tobacco smoke, etc.	Metzeger 2000			
+428	0	0		tɨ̃go	escutar		escuchar	hear	Metzeger 2000			
+429	0	0		tɨ̃gojo	escuchar distante		escuchar	hear	Metzeger 2000			
+431	752	1		jerika ~ jeri	coração		corazón	heart (internal organ)	Metzeger 2000			
+432	0	0		rɨpo isia	calcanhar		talón	heel	Metzeger 2000			
+433	0	0		itinemo	ajudar		ayudar	help (V)	Metzeger 2000			
+436	0	0		jasio	esconder		esconder	hide (VT)	Metzeger 2000			
+437	0	0		ɨmɨa	ser ou estrar alto		alto	high, tall	Metzeger 2000			
+438	0	0		buuro	colina		loma, altura	hill, mountain, upland forest	Metzeger 2000			
+440	0	0		bape	golpear, bater		golpear	hit	Metzeger 2000			
+441	0	0		kẽrũkẽ	golpear, bater		golpear	hit	Metzeger 2000			
+439	774	1		pa	golpear, bater		golpear	hit	Metzger 2000			
+442	442	3		ɲe	agarrar, ter nas mãos		agarrar, tener en la mano	hold sth in the hands	Metzeger 2000			
+443	0	0		ope	oco		hueco	hole	Metzeger 2000			
+444	874	1		oko	mel		miel	honey	Metzeger 2000			
+445	0	0		hawia	chifre		cuerno (cacho)	horn	Metzeger 2000			
+446	0	0		nunuró	mosca	Mutuca	tábano	horsefly	Metzeger 2000			
+447	0	0		wii	casa, edifício		casa	house	Metzeger 2000			
+449	0	0		ukɨo ~ ɨko	mono aullador		mono aullador, mono coto	howler monkey, Alouatta sp.	Metzeger 2000			
+450	0	0		mimi	beia flor		picaflor, colibri	humminɡnoun:animal:bird (general)	Metzeger 2000			
+452	901	1		kãmirõ	herida		herir(se), lastimar(se)	hurt oneself, injure oneself, VI, punctual	Metzger 2000		não encontrado o verbo no infinitvo, LTJS	
+455	0	0		wisi ~ wisio	sentir se enfermo, v.i		doler	hurt, be painful, VI, durative	Metzeger 2000			
+457	0	0		manapɨ	esposo		marido, esposo	husband	Metzeger 2000			
+459	0	0		busu	iluminar se	iluminar	iluminar	illuminate sth, shine light on sth (VT)	Metzeger 2000			
+458	0	0		hĩɲawo	iluminar, alumbrar	iluminar	iluminar	illuminate sth, shine light on sth (VT)	Metzeger 2000			
+460	0	0		kẽno	reparar		remedar, imitar, reparar	imitate (animal cry, noun:person)	Metzeger 2000			
+461	0	0		ka-wĩmaɨ	criança, bebê		bebé, infante, nené, llullu, criatura, etc.	infant	Metzeger 2000			
+462	0	0		mene	ingá, comestível		guaba, guama	Inga sp., general	Metzeger 2000			
+463	0	0		ɨta misĩ	intestinos		intestino (entrañas)	intestines, guts	Metzeger 2000			plural
+466	0	0		jukɨ poa	ilha		isla	island	Metzeger 2000			
+468	0	0		hĩɲa	iluminar		alumbrar	issue light, shine light (VI)	Metzeger 2000			
+470	0	0		wãkĩ	sentir picazón		dar comezon	itch	Metzeger 2000			
+471	0	0		makãnɨkɨ̃ jai	tigre, jaguar		tigre, jaguar	jaguar	Metzeger 2000			
+473	0	0		pati	saltar, brincar		saltar (brincar)	jump, NON-PLACT	Metzeger 2000			
+475	475	2		busa	algodão		algodón (silvestre), huimba	kapok, Ceiba pentandra	Metzeger 2000			de ceiba
+480	0	0		hĩã̃	matar		matar	kill	Metzeger 2000			
+479	0	0		pajĩá	matar lutando com outro		matar	kill	Metzeger 2000			
+481	0	0		ɲasã	martim pescador		martin pescador	kinɡfisher	Metzeger 2000			
+482	0	0		rɨpo patua	joelho		rodilla	knee	Metzeger 2000			
+483	0	0		jiserikapãĩ	faca		cuchillo	knife	Metzeger 2000			
+484	0	0		masĩ	saber		saber	know	Metzeger 2000			
+485	0	0		ɨtabɨkɨra	lago, lagoa		lago, cocha	lake	Metzeger 2000			
+486	486	2		hɨ̃ɨ̃	caracol		caracol	land snail (edible)	Metzeger 2000			
+487	0	0		tipaɨ bero	más tarde		más tarde	later	Metzeger 2000			
+488	0	0		bojeti	rirse		reír	laugh	Metzeger 2000			
+909				ɲupeo 	por a mão em cima			lay down	Metzeger 2000			
+489	0	0		kũ	colocar, por		poner/colocar	lay down (tr.)	Metzeger 2000			
+490	490	2		peo	colocar em cima		poner/colocar	lay down (tr.)	Metzeger 2000			
+491	0	0		tupua	por injeção		poner/colocar	lay down (tr.)	Metzeger 2000			
+492	0	0		pũrõ ~ pũũrõ	folha		hoja	leaf	Metzeger 2000			
+494	0	0		bia pũna	arriera, especie de hormiga comestible durante cierta época		curhuince, arriera	leafcutter ant	Metzeger 2000			
+495	0	0		kaaku nɨgõã	esquerda		izquierdo	left	Metzeger 2000			
+496	0	0		ɲikãã	perna		pierna	leg	Metzeger 2000			
+497	0	0		piti	soltar		soltar	let go of sth, let go of animal/noun:person	Metzeger 2000			
+499	0	0		hita ~ hito	vamos		vamos	letʼs ɡo	Metzeger 2000			
+503	0	0		wero	lamer		lamer	lick	Metzeger 2000			
+504	504	2		josa	acostarse		echarse	lie down (telic, VI)	Metzeger 2000			
+505	0	0		wãmɨo			levantar (alzar)	lift (VT)	Metzeger 2000			
+506	0	0		puẽɲo	acender		prender fuego, encender	light a fire (VT)	Metzeger 2000			
+507	827	1		bɨpo jabe	relampejar		relámpago	lightning (N)	Metzeger 2000			
+509	509	2		ãnã	vida, viver		vivir	live	Metzeger 2000			
+510	0	0		ɲemeriti	fígado		higado	liver	Metzeger 2000			
+511	0	0		jowɨho	lagarto		lagarto, lagartija	lizard, generic	Metzeger 2000			
+512	0	0		makã	buscar		buscar	look for	Metzeger 2000			
+513	0	0		jasi	perder se		perder	lose object (VT)	Metzeger 2000			
+514	0	0		ijaamɨ	piojo		piojo	louse	Metzeger 2000			
+515	0	0		mai	amar		amar	love	Metzeger 2000			
+516	0	0		jeri horikaro	pulmão		pulmón	lung	Metzeger 2000			
+517	0	0		maa	guacamayo		guacamayo	macaw	Metzeger 2000			
+519	0	0		ɲa	fazer cair		hacer caer	make someone/sth fall (from standing verb:positional), push someone over	Metzeger 2000			
+520	0	0		wejo	mojar		mojar	make wet	Metzeger 2000			weyarike, molhar-se
+522	0	0		kãmɨ̃ɨ	hombre		hombre	man	Metzeger 2000			
+524	0	0		etehe	chicha		masato (chicha)	manioc beer	Metzeger 2000			
+525	0	0		naurõ ~ naorõ	casebe		casabe	manioc bread	Metzeger 2000			
+527	0	0		hõkõrõ	rallador		rallador (de yuca)	manioc grater	Metzeger 2000			
+528	0	0		ataro	tiesto		tiesto	manioc griddle/stove	Metzeger 2000			
+530	0	0		poka	farinha		fariña	manioc meal, manioc flour	Metzeger 2000			
+533	0	0		pĩnowɨ	matafrío		matafrio, sebucan, tipiti	manioc press	Metzeger 2000			
+534	535	1		weta	almidón		almidón	manioc starch	Metzeger 2000			de yuca
+535	535	2		weta	yuca brava		yuca brava	manioc, bitter	Metzeger 2000			
+536	0	0	'kíi	'kíi	yuca		yuca dulce	manioc, sweet	H&R 1992			
+537	0	0		bɨtioro	muy, mucho		mucho	many, ANIM	Metzeger 2000			
+538	0	0		bɨtɨoro	muy, mucho		mucho	many, ANIM	Metzeger 2000			
+540	568	1		kapee	mucho, muchos, mucha, muchas, para cosas inanimadas contables		mucho	many, INAM	Metzeger 2000			
+539	567	1		pairo	mucho, muchos, mucha, muchas, para masa, cosas inanimadas no contables		mucho	many, INAM	Metzeger 2000			
+543	817	2		mui	hojas de cierta palma utilizadas en la construción del techo de una casa	caraná	carana, aguaje de varillal	Mauritia carana	Metzeger 2000			
+544	0	0		neea	moriche, fruta		aguaje, canangucha, moriche	Mauritia flexuosa	Metzeger 2000			
+545	0	0		neeɲo	moriche, palma		aguaje, canangucha, moriche	Mauritia flexuosa	Metzeger 2000			
+546	0	0		neetõ	racimo de moriche		aguaje, canangucha, moriche	Mauritia flexuosa	Metzeger 2000			
+547	547	2		rii	carne		carne	meat	Metzeger 2000			riiko 'pedazo de carne'
+550	0	0		ɨko	remedio		remedio, medicina, droga	medicine	Metzeger 2000			
+554	0	0		ka-rekomakã	medio, em medio de		medio	middle (relational N)	Metzeger 2000			
+555	555	2		muni	ciempiés que pica, centípedo		milpiés	millipede	Metzeger 2000			
+556	557	1		asu	mezclar		mezclar	mix, mix sth with sth else, NOT stir	Metzeger 2000			
+557	557	2		asu	mezclar		mezclar	mix, stir liquid, with spoon or other utensil	Metzeger 2000			
+561	791	1		moipɨ ~ muipɨ	luna		luna	moon	Metzeger 2000			
+562	836	1		ɲamirõkã	mañana		mañana	morning	Metzeger 2000			
+563	0	0		mɨtẽ	zancudo		zancudo	mosquito	Metzeger 2000			
+565	565	2		mɨgõ	tía		tía, hermana de la madre	mother's sister	Metzeger 2000			
+566	0	0		risero	boca		boca	mouth	Metzeger 2000			
+568	568	2		kapee	mucho, muchos, mucha, muchas, para cosas inanimadas contables		mucho	much, INAM	Metzeger 2000			
+567	567	2		pairo	mucho, muchos, mucha, muchas, para masa, cosas inanimadas no contables		mucho	much, INAM	Metzeger 2000			
+569	0	0		wãme	nombre		nombre	name	Metzeger 2000			
+570	0	0		ẽɲotarikaro	cerca		cerca	near	Metzeger 2000			
+572	0	0		wãmɨ tutu	cuello		cuello	neck	Metzeger 2000			
+571	0	0		wãmɨa	cuello		cuello	neck	Metzeger 2000			
+574	0	0		manahẽ	no ser, no estar, no hay, no existir		no haber	negative existential	Metzeger 2000			
+577	742	2		makɨ̃	sobriño, niño de mi hermano		sobrino, sobrina	nephew/niece	Metzeger 2000		feminine makõ	
+575	0	0		pãmokɨ̃ ~ pãmokõ	sobriño, niño de mi hermana		sobrino, sobrina	nephew/niece	Metzeger 2000			
+580	0	0		ka-wãma	nuevo, nueva		nuevo	new	Metzeger 2000			
+581	0	0		ɲami	noche		noche	night	Metzeger 2000			
+582	0	0		jaia	gente no indígena		noun:persona blanca, blanco, extranjero, foráneo, gringo	non-indigenous noun:person, white noun:person	Metzeger 2000			
+583	650	1		ĩkẽã ~ ĩkĩã	nariz		nariz	nose	Metzeger 2000			
+586	586	2		bóka	conseguir		conseguir, obtener	obtain	Metzeger 2000			
+589	0	0	'kábɨkɨ́-ro	ká-bɨkɨ́-ro	viejo		viejo	old	H&R 1992			
+590	907	1		bai	hermano, hermana mayor		hermano, hermana mayor	older sibling (older brother, older sister)	Metzeger 2000		feminine baio	
+592	0	0		hɨ̃gokɨ	hermano, hermana mayor		hermano, hermana mayor	older sibling (older brother, older sister)	Metzeger 2000		feminine hɨ̃goko	
+594	0	0		hĩkã	uno		uno	one	Metzeger 2000			
+595	599	1		pãã	abrir		abrir	open cap, open sth perpendicular to rest of surface, VT	Metzeger 2000			
+596	599	2		pãã	abrir		abrir	open door, open sth parallel to rest of surface, VT	Metzeger 2000			
+597	597	3		jaa	abrir la boca		abrir la boca, bostezar	open the mouth	Metzeger 2000			
+599	599	3		pãã	abrir		abrir	open, VT	Metzeger 2000			
+600	0	0		roti	mandar		ordenar, mandar (a una noun:persona)	order, command	Metzeger 2000			
+602	0	0	ápe-i ~ 'ápe-o	ápe-i	outro		otro	other	H&R 1992		feminine 'ápe-o	
+606	0	0		hẽme	paca		boruga, paca, majas, lapa	paca, Agouti paca	Metzeger 2000			
+607	0	0		warikapãĩ	remo		remo	paddle	Metzeger 2000			
+608	0	0		waa	remar		bogar, remar	paddle (V)	Metzeger 2000			
+609	687	1		ware	pintar		pintar	paint (V)	Metzeger 2000			
+613	0	0		kaakɨ	padre		madre, padre	parent	Metzeger 2000		feminine kaako	
+614	0	0		weko	loro real		loro	parrot, Amazona spp., generic or particular	Metzeger 2000			
+615	616	1		netõõ	pasar obstaculo o tiempo		pasar	pass (VI)	Metzeger 2000			
+616	616	2		netõõ	pasar obstaculo o tiempo		pasar	pass (VI)	Metzeger 2000			
+617	0	0		maa	camino		camino	path	Metzeger 2000			
+618	0	0		wãã	forma de camino		camino	path	Metzeger 2000			
+619	0	0		ɨ̃nea	pupuña, fruta		pupuna, chontaduro, pijuayo	peach palm, Bactris gasipaes	Metzeger 2000			
+620	0	0		ɨ̃neɲo	palma de pupuña		pupuna, chontaduro, pijuayo	peach palm, Bactris gasipaes	Metzeger 2000			
+621	0	0		ɨ̃netõ	racimo de pupuña		pupuna, chontaduro, pijuayo	peach palm, Bactris gasipaes	Metzeger 2000			
+622	0	0		kii jese	pecarí de collar		sajino, saíno, cerrillo, pecarí de collar	peccary, collared, Tayassu tajacu	Metzeger 2000			
+623	0	0		jese	pecarí		huangana, puerco	peccary, white-lipped, Tayassu pecari	Metzeger 2000			
+627	0	0		nunia	pene		pene	penis	Metzeger 2000			
+626	0	0		õnerikɨ	pene		pene	penis	Metzeger 2000			
+628	0	0		kamasã	gente		gente	people	Metzeger 2000			
+629	0	0		hẽna	piña		piña	pineapple	Metzeger 2000			
+630	0	0		bɨɨ	piraña		piraña, paña, palometa	piranha	Metzeger 2000			
+631	0	0		ɨpe	brea		brea	pitch	Metzeger 2000			ɨpero 'pedazo de brea'
+633	0	0		ote	sembrar pepas o semillas		sembrar semilla	plant (seed)	Metzeger 2000			
+634	886	1		o pũ	plátano, fruta		plátano	plantain	Metzeger 2000			
+635	887	1		o pũɲo	planta de plátano		plátano	plantain	Metzeger 2000			
+636	888	1		o pũtõ	racimo de plátano		plátano	plantain	Metzeger 2000			
+637	0	0		epe	jugar		jugar	play	Metzeger 2000			
+640	0	0		jaso	veneno para matar a una persona		curare, veneno	poison, for weapons (N)	Metzeger 2000			
+641	0	0		wãmɨ	umarí, especie de nuez comestible		umarí	Poraqueiba sericea	Metzeger 2000			
+642	0	0		peta	puerto		puerto	port	Metzeger 2000			
+643	0	0		hotɨ urua	olla de barro		olla	pot	Metzeger 2000			
+644	0	0		kõmerɨ	olla de metal		olla	pot	Metzeger 2000			
+647	0	0		ãũwɨ	guarumo		caimarón, uvilla, guarumo	Pouroma cecropiafoliae	Metzeger 2000			
+650	650	2		ĩkẽã ~ ĩkĩã	proa de la canoa		proa	prow	Metzeger 2000			
+652	0	0		tɨ̃gã	jalar		jalar	pull	Metzeger 2000			
+653	0	0	'tú-hó	'tú-hó	empujar		empujar	push	H&R 1992			
+655	655	2		kũrĩke	colocar		poner (colocar), hacer sentar	put down, put sth in position such that a small surface fully contacts the ground, NON-PLACT	Metzeger 2000			
+654	655	1		kũrĩke	poner		poner (colocar), hacer sentar	put down, put sth in position such that a small surface fully contacts the ground, NON-PLACT	Metzeger 2000			
+657	0	0		jose	sumergir algo para hacer mojado y luego tomar		sumergir, hundir, sumir	put in water, VT	Metzeger 2000			
+658	658	2		hãɲa	vestir, vestirse		ponerse (ropa), vestirse, mudar ropa	put on garment (of oneself), get dressed	Metzeger 2000			
+659	0	0		oka	llover		llover	rain	Metzeger 2000			
+661	0	0		bue	arco íris		arco iris	rainbow	Metzeger 2000			
+660	0	0		bue beto	arco íris		arco iris	rainbow	Metzeger 2000			
+662	0	0		buewẽ	arco íris		arco iris	rainbow	Metzeger 2000			
+663	0	0		masõ	criar		criar	raise pet/domestic animal	Metzeger 2000			
+665	0	0		bii	ratón		ratón	rat, generic	Metzeger 2000			
+664	0	0		biipoto	ratón		ratón	rat, generic	Metzeger 2000			
+666	681	1		ɲasãã	sonajero para la danza		maraca, sonaja, sonajero	rattle, maraca	Metzeger 2000			
+667	0	0		kati	crudo, cruda		crudo	raw	Metzeger 2000			
+669	0	0		átihĩãti	alcanzar una tarea		alcanzar	reach goal (VT)	Metzeger 2000			
+668	0	0		ẽmɨ	alcanzar un gol		alcanzar	reach goal (VT)	Metzeger 2000			
+671	0	0		hũã ~ hõã	roja		rojo	red	Metzeger 2000			
+672	0	0		bese	entresacar, escoger		sacar	remove sth from closed space (VT), NON-PLACT	Metzeger 2000			
+674	0	0		jɨ	responder		responder	reply	Metzeger 2000			
+675	675	2		rií	savia		resina	resin, sap	Metzeger 2000			
+676	0	0		jeri hã	descansar		descansar	rest (VI)	Metzeger 2000			
+677	0	0		tunuo	devolver		devolver	return, give sth back to its owner	Metzeger 2000			
+678	0	0		ãmehore	volver		volver	return, go back to point of origin	Metzeger 2000			
+679	0	0		waruu	costilla		costilla	rib	Metzeger 2000			
+680	0	0		kariape nɨgõã	derecho		derecho	right (side)	Metzeger 2000			
+681	681	2		ɲasãã	sonajero para la danza		shacapa	ritual tassel	Metzeger 2000			
+682	0	0		ria	río		río	river	Metzeger 2000			
+683	0	0		ria tĩmi	nutria		nutria, lobo del rio	river otter, Lutra sp.	Metzeger 2000			
+685	0	0		nɨkõ	raíz		raiz	root	Metzeger 2000			
+686	0	0		boa	pudrirse		pudrirse	rot	Metzeger 2000			
+687	687	2		ware	untar		frotar, untar, sobar	rub obj down with sth, smear sth across obj, as grease or paint	Metzeger 2000			
+689	0	0		atɨ	correr		correr	run	Metzeger 2000			
+690	0	0		moa	sal		sal	salt	Metzeger 2000			
+691	0	0		paa	arena		arena	sand	Metzeger 2000			
+693	0	0		ĩ	decir		decir	say	Metzeger 2000			
+694	0	0		nɨtɨ̃	escamas		escama	scales	Metzeger 2000			
+695	0	0		akɨa	asustarse		asustar (espantar)	scare (VT)	Metzeger 2000			
+696	0	0		tuti	regañar		regañar	scold	Metzeger 2000			
+697	0	0		kotapa	escorpión, alacrán		alacrán	scorpion	Metzeger 2000			
+700	0	0		jesea	cavar, excavar		escarbar	scratch ground, scrape ground, make shallow depression/hole (as chickens)	Metzeger 2000			
+702	0	0		ĩɲa	ver		ver	see	Metzeger 2000			
+703	0	0		oterika	semilla		semilla	seed	Metzeger 2000			
+704	0	0		áwejo	separarse		separarse	separate oneself from group (VI), become separate, of obj (VI), NON-PLACT	Metzeger 2000			
+706	0	0		ẽma	quitar		quitar	separate sth from group (VT), confiscate obj (VT), NON-PLACT	Metzeger 2000			
+708	708	2		wãtĩ	sombra		sombra	shadow, shade	Metzeger 2000			
+709	0	0		ipijo	afilar		afilar	sharpen (VT)	Metzeger 2000			
+712	0	0		bupu	disparar con cerbatana		disparar, flechar, pucunear	shoot arrow or blowgun dart, NON-PLACT	Metzeger 2000			
+713	0	0		petu	disparar com escopeta		disparar, flechar, pucunear	shoot arrow or blowgun dart, NON-PLACT	Metzeger 2000			
+716	0	0		jepá	corto		corto, bajo	short	Metzeger 2000			
+717	0	0		joa eti	corto		corto, bajo	short	Metzeger 2000			
+718	0	0		riká pɨto	hombro		hombro	shoulder	Metzeger 2000			
+719	0	0		awaha	gritar		gritar	shout, yell	Metzeger 2000			
+720	0	0		nɨgõã	lado		lado	side	Metzeger 2000			
+721	0	0		hɨgarika	cernidor		cernidor, colador, cedazo	sieve (strainer)	Metzeger 2000			
+722	0	0		hɨgoa	cedazo		cernidor, colador, cedazo	sieve (strainer)	Metzeger 2000			
+723	0	0		basa	cantar		cantar	sing	Metzeger 2000			
+726	0	0		tẽɲo	cuñada		cuñada	sister-in-law	Metzeger 2000			plural tẽɲarã
+727	727	3		rui	sentarse		sentar	sit	Metzeger 2000			
+728	0	0		asero	piel		piel	skin	Metzeger 2000			
+729	0	0		ɨmɨreko	cielo		cielo	sky	Metzeger 2000			
+730	0	0		kãni	dormir		dormir	sleep	Metzeger 2000			
+731	0	0		wɨ̃nɨ	perezoso		pelejo, perezoso	sloth, general	Metzeger 2000			
+732	732	2		husu	tener olor		oler, tener olor	smell (VI, issue a smell)	Metzeger 2000			
+733	0	0		wĩni	olfatear		oler, olfatear	smell (VT, perceive a smell)	Metzeger 2000			
+734	0	0		uu	fumar		fumar (tabaco)	smoke (consume sth by smoking)	Metzeger 2000			
+735	0	0		buseri	humo		humo, vapor, neblina	smoke (N), steam, fog, mist	Metzeger 2000			
+736	736	2		pɨ̃õ	ahumar		ahumar	smoke food	Metzeger 2000			
+737	0	0		ãɲa	culebra		culebra, víbora	snake	Metzeger 2000			
+738	0	0		ãsĩã	estornudar		estornudar	sneeze	Metzeger 2000			
+740	0	0		retoa	lulo		naranjilla, lulo	Solanum quitoense	Metzeger 2000			
+742	742	3		makɨ̃	hijo		hijo	son	Metzeger 2000		feminine makõ	
+744	0	0		buí	yerno		yerno	son-in-law	Metzeger 2000			
+746	746	2		bɨsɨ	hablar		hablar	speak	Metzeger 2000			
+747	0	0		besuɨ	lanza		lanza	spear	Metzeger 2000			
+748	0	0		bɨpɨ	araña		araña	spider	Metzeger 2000			
+749	0	0	wa'ú	wa'ú	marimonda, maquisapa		maquizapa	spider monkey, Ateles sp	H&R 1992			
+752	752	2		jeri	alma, espíritu		alma	spirit, ghost, of dead noun:person	Metzeger 2000			
+753	755	1		jeri pũnaa	alma, espíritu		alma	spirit, ghost, of dead noun:person	Metzeger 2000			
+754	752	3		jeri	alma, espíritu		alma	spirit, soul, of live noun:person/animal	Metzeger 2000			
+755	755	2		jeri pũnaa	alma, espíritu		alma	spirit, soul, of live noun:person/animal	Metzeger 2000			
+756	0	0		ɨkoo	saliva		saliva	spit (N)	Metzeger 2000			
+757	0	0		ejotu	escupir		escupir	spit (V)	Metzeger 2000			
+759	759	2		jiseta	dividir em partes		partir(se)	split (VI), develop crack and separate down crack, of rigid obj such as plate or wood	Metzeger 2000			
+758	0	0		ta	partir		partir(se)	split (VI), develop crack and separate down crack, of rigid obj such as plate or wood	Metzeger 2000			
+760	0	0		bope	rajar		rajar, partir (leña)	split (VT), cut or break down central axis and force apart, e.g. split a log or open belly of carcass	Metzeger 2000			
+761	0	0		numu	exprimir com el matafrío		apretar	squeeze (VT)	Metzeger 2000			
+762	0	0		ripe	exprimir		exprimir	squeeze to juice, express a liquid (VT)	Metzeger 2000			
+763	0	0		wĩsõkã	ardilla roja ardilla colorada		ardilla	squirrel	Metzeger 2000			
+765	0	0		putí	punzar		picar, puñalar, chuzar, lanzar, acuchillar	stab, general	Metzeger 2000			
+766	0	0		rokaho	lançar		picar, puñalar, chuzar, lanzar, acuchillar	stab, general	Metzeger 2000			
+767	0	0		ɲuho	meter		chuzar, meter, inyectar	stab, put sth straight in ground and at least partially within ground, e.g. in planting manioc, VT, NON-PLACT	Metzeger 2000			
+769	780	2		tua nɨkã	se parar		pararse	stand up (telic VI)	Metzeger 2000			
+770	0	0		ɲokõ	estrela		estrella	star	Metzeger 2000			
+771	0	0		heruti	roubar		robar	steal	Metzeger 2000			
+772	0	0		neruti	roubar uma coisa inanimada		robar	steal	Metzeger 2000			
+773	842	1		jukɨ	ramo		palo, palito	stick	Metzeger 2000			
+774	774	2		pa	pregar		apegar	stick sth to surface (VT), NON-PLACT	Metzeger 2000			
+776	0	0		hɨgoo	adherir, pegar		apegarse	stick to (VI)	Metzeger 2000			
+778	0	0		baa	batir vigorosamente		batir, rodar utensilio	stir, twirl stick by rubbing palms together, as in starting fire or stirring/whipping a liquid	Metzeger 2000			
+779	0	0		ɨ̃tã	pedra		piedra	stone	Metzeger 2000			
+781	0	0		eta nɨkã	parar		parar, cesar	stop (VI)	Metzeger 2000			
+780	780	3		tua nɨkã	parar		parar, cesar	stop (VI)	Metzeger 2000			
+782	0	0		riape	direito, em frente de		derecho	straight (of path)	Metzeger 2000			
+783	0	0		bipe	coar		colar (cernir)	strain liquid (VT)	Metzeger 2000			
+784	0	0	'ría 'bãã	ría 'maa	quebrada, caño		quebrada, arroyo (riachuelo)	stream	H&R 1992			
+785	786	1		ɲuho	estender la mano		tender	stretch out, spread out, of 2D object, VT	Metzeger 2000			
+787	0	0		hesa	se esticar		estirar	stretch, extend noun:body part (VT)	Metzeger 2000			
+786	786	2		ɲuho	esticar a mão		estirar	stretch, extend noun:body part (VT)	Metzeger 2000			
+789	0	0		õpũ ~ ũpũ	chupar		chupar	suck	Metzeger 2000			
+790	0	0		ɲukã mene	cana de açúcar		caña de azucar	sugar cane	Metzeger 2000			
+791	791	2		moipɨ ~ muipɨ	sol		sol	Sun	Metzeger 2000			
+794	0	0		asipua	suar	suar	sudar	sweat	Metzeger 2000			
+795	0	0		owa	varrer		barrer	sweep	Metzeger 2000			
+796	0	0		kapo	batato doce		camote	sweet potato	Metzeger 2000			
+797	0	0		ɲapĩ	batata doce		camote	sweet potato	Metzeger 2000			
+798	0	0		rutu	batata doce		camote	sweet potato	Metzger 2000			
+799	0	0		bipi	se inchar		hincharse	swell	Metzeger 2000			
+800	0	0		baa	nadar		nadar	swim	Metzeger 2000			
+801	0	0		pĩkõrõ	cauda		rabo, cola	tail	Metzeger 2000			
+802	803	1		ne	levar		llevar	take (VT)	Metzeger 2000			
+803	803	2		ne	levar no ombro		llevar	take (VT)	Metzeger 2000			
+804	804	2		pɨsa	levar nas costas		llevar	take (VT)	Metzger 2000			
+805	805	2		bɨko	oso hormiguero		shihui	tamandua (Tamandua spp.)	Metzeger 2000			
+808	0	0		wekɨ	anta, tapir		sachavaca, danta, tapir	tapir, Tapirus terrestris	Metzeger 2000			
+810	0	0		bue	ensinar		enseñar	teach	Metzeger 2000			
+811	0	0		woo	rasgar		desgarrar, rasgar, romper	tear, break flexible obj, VT	Metzeger 2000			
+812	138	4		wati	se romper		romperse (algo flexible)	tear, break, of sth flexible, VI	Metzeger 2000			
+813	0	0		keti bɨhɨ	contar, relatar		contar, avisar	tell, tell story, warn, teach	Metzeger 2000			
+814	0	0		butuamɨ	cupim		comejen	termite	Metzeger 2000			pl. butua
+817	817	3		mui	caraná, folhas de certa palmeira usada para forrar a casa		irapay, puy, huasipanga, caraná	thatch palm	Metzeger 2000			
+818	0	0		esebɨti	ser ou estar grosso		grueso	thick (dimension)	Metzeger 2000			
+819	0	0		ɲukõã	ser ou estar espesso		espeso	thick, pasty, of liquid	Metzeger 2000			
+820	0	0		ɨse pɨto	muslo		muslo	thigh	Metzeger 2000			
+821	0	0		tɨgo ɲa	pensar		pensar	think	Metzeger 2000			
+822	0	0		pota	espinho		espina	thorn	Metzeger 2000			
+823	0	0		itia	três		tres	three	Metzeger 2000			
+826	0	0		pio	jogar água		tirar, echar	throw (sth through the air, to another noun:person, NOT throw away)	Metzeger 2000			
+825	825	2		roka	jogar uma coisa inanimada		tirar, echar	throw (sth through the air, to another noun:person, NOT throw away)	Metzeger 2000			
+824	0	0		wẽẽ	tirar		tirar, echar	throw (sth through the air, to another noun:person, NOT throw away)	Metzeger 2000			
+827	827	2		bɨpo jabe	relampaguear, relámpago		tronar	thunder (V)	Metzeger 2000			
+828	0	0	bɨ'pó	bɨ'pó	trueno		trueno	thunder spirit (N)	H&R 1992			
+829	0	0		base	carrapato		garrapata	tick	Metzeger 2000			
+830	878	1		hija	amarrar		amarrar, atar	tie (general)	Metzeger 2000			
+831	0	0		dɨrɨa	enrollar cuerda		enrollar soga	tie cord to itself, make loop	Metzeger 2000			
+832	878	2		hija	amarrar		amarrar	tie sth up (not w loop), bind sth with cord, NON-PLACT	Metzeger 2000			
+834	0	0		mɨno	tabaco		tabaco	tobacco	Metzeger 2000			
+835	835	2		rɨpo jõã	dedo do pé		dedo de pie	toe	Metzeger 2000			
+836	836	2		ɲamirõkã	mañana		mañana	tomorrow	Metzeger 2000			
+837	0	0		ɲemerõ	lengua fisica		lengua	tongue	Metzeger 2000			
+838	0	0		opi-a	diente		diente	tooth	Metzeger 2000			
+840	0	0		rase	tucán		tucán, pinsha	toucan	Metzeger 2000			
+842	842	2		jukɨ	árbol		árbol, palo	tree	Metzeger 2000			
+844	0	0		tutu	tronco, tocón		tronco	trunk (of tree)	Metzeger 2000			
+845	0	0	jã́bṍ	ɲámó	ñame		sachapapa	tuber, Dioscorea sp.	H&R 1992			
+849	0	0		uu	tortuga acuática		tortuga (acuatica)	turtle, aquatic, general	Metzeger 2000			
+852	0	0	'pɨ́ga	pɨ́ga	dos		dos	two	H&R 1992			
+853	853	3		hɨ̃me	verde, azul		verde (fruta)	unripe	Metzeger 2000			
+854	0	0		popio	desatar		desatar	untie (VT)	Metzeger 2000			
+855	0	0		ka-ropotopɨ	río arriba		río arriba	upriver	Metzeger 2000			
+857	0	0		õne	orinar		orinar	urinate	Metzeger 2000			
+858	0	0	ja'dẽ́	ja'né	vulva		vagina	vagina	H&R 1992			
+860	0	0		makã	pueblo		pueblo, comunidad	village	Metzeger 2000			
+861	0	0		mɨɲo	vomitar		vomitar	vomit	Metzeger 2000			
+862	0	0		juka	guala, buitre de América		buitre, gallinazo	vulture	Metzeger 2000			
+865	0	0		ju	esperar		esperar	wait for	Metzeger 2000			
+864	0	0		kote	esperar		esperar	wait for	Metzeger 2000			
+866	0	0		wãkã	despertar		despertarse	wake up, VI	Metzeger 2000			
+868	0	0		áɲesẽãta	andar		caminar	walk	Metzeger 2000			
+870	871	1		boo	querer		querer	want	Metzeger 2000			
+871	871	2		boo	querer		querer	want	Metzeger 2000			
+872	891	1		kose	lavar		lavar	wash	Metzeger 2000			
+873	0	0		utiamɨ	avispa		avispa	wasp, general	Metzeger 2000			
+874	874	2		oko	agua		agua	water	Metzeger 2000			
+878	878	3		hija	tejer redes		tejer, trenzar	weave (thread or cord)	Metzeger 2000			
+877	0	0		hua	tecer canastas		tejer, trenzar	weave (thread or cord)	Metzeger 2000			
+881	0	0		wĩpõ	silbar		silbar	whistle	Metzeger 2000			
+882	0	0		nɨmo	esposa		esposa	wife	Metzeger 2000			
+885	0	0		ɲukã mene	caña de azúcar		caña brava	wild cane (Sagittatum sp.)	Metzeger 2000		not really wild cane, but sugar cane. The author uses cane for other babmboo like plants, but has no specific wild cane word	
+884	0	0		wãsõ	caña para pescar		caña brava	wild cane (Sagittatum sp.)	Metzeger 2000			
+883	0	0		wɨɨ	caña de balay		caña brava	wild cane (Sagittatum sp.)	Metzeger 2000			
+886	886	2		o pũ	plátano, fruta		plátano (silvestre)	wild plantain	Metzeger 2000			
+887	887	2		o pũɲo	planta de plátano		plátano (silvestre)	wild plantain	Metzeger 2000			
+888	888	2		o pũtõ	racimo de plátano		plátano (silvestre)	wild plantain	Metzeger 2000			
+889	0	0		wĩno	viento		viento	wind	Metzeger 2000			
+890	0	0		kerɨpɨ	ala		ala	wing	Metzeger 2000			
+891	891	2		kose	lavar, limpiar		borrar, limpiar frotando	wipe	Metzeger 2000			
+893	0	0		kũmu 	bruja		brujo, chamán, payé, médico, curandero, etc.	witch, shaman	Metzeger 2000		feminine kũmuo	
+894	0	0		ka-rõmio	mujer		mujer	woman	Metzeger 2000			
+896	0	0		hei ~ heo	churuco, especie de mono com pelo oscuro y cola enrollada		(mono) choro	woolly monkey, Lagothrix spp.	Metzeger 2000			
+898	0	0		paa	trabajar		trabajar	work (VI)	Metzeger 2000			
+899	0	0		wãsĩ	lombriz		lombriz	worm, earthworm, NOT parasitic	Metzeger 2000			
+900	900	2		beko	gusano		gusano, lombriz	worm, parasitic, internal	Metzeger 2000			
+901	901	2		kãmirõ	herida		herida	wound (N)	Metzeger 2000			
+902	0	0		ũma	envolver		envolver	wrap (VT)	Metzeger 2000			
+903	0	0		wãmo bea	muñeca		muñeca	wrist	Metzeger 2000			
+904	0	0		wãmo katuroro	muñeca		muñeca	wrist	Metzeger 2000			
+905	0	0		ka-wãmaɨ	jovencito		joven, señorita, chica	young noun:person, young man, young woman	Metzeger 2000			
+906	0	0		ka-wãmao	jovencita		joven, señorita, chica	young noun:person, young man, young woman	Metzeger 2000			
+907	907	2		bai	hermano menor		hermano/hermana menor	younger sibling, younger brother, younger sister	Metzeger 2000		feminine baio	
