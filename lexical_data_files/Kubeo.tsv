@@ -1,0 +1,983 @@
+id_record	SRC	ORP	ORF	TRA	TUE	TUP	TUS	REF	FUN	PHT	PHM	CSO	CSA
+0	Chacon 2014	0	0	a lower clan man; a makú man	“Makú” noun:person	pessoa macú	noun:persona makú		bò'rókɨ̀		bodó-kɨ́		boro is a root that also means 'news, report, chat'; Kubeo clans Yuremawa and Yúriwawa describe that one of the lower clans' job was to spy and report back to the chief of any enemies' activity in wartime
+1	Chacon 2014	0	0	achiote	achiote, Bixa orellana	urucum	achiote		mù'hã́ríyó́		bũhã́diyo		
+2	Chacon 2014	0	0	carayuru	achiote-LAX, `carayuru`, Arrebidaea chica	carajuru	carayuru		mù'hã́		bũhã́		
+3	Chacon 2014	0	0	evening, afternoon	afternoon	tarde	tarde		nàì'nú		dãidṹ		
+4	Chacon 2014	0	0	night	afternoon-LAX				ñà'mí		yãbĩ́ L		Since this means night, it should be in the NIGHT row, not lax for afternoon. -- LDM
+5	Chacon 2014	0	0	cutiaia	agouti, Myoprocta spp.	cutia	añuje		hɨ̀'bɨ́kàkɨ̀		hɨbɨ́=kàkɨ		hɨbɨ has no independent meaning; kakɨ 'from a place or a social group'
+6	Chacon 2014	0	0	cutia	agouti, Myoprocta spp.	cutia	añuje		bùɨ́		buɨ́ L		
+7	Chacon 2014	0	0	all, every	all	todos	todos		'kaiwɨ		'kaí=wɨ̀		
+8	Chacon 2014	0	0	caju	Anacardium spp.	caju	marañón		kàókɨ̀		'kaó L		
+9	Chacon 2014	0	0	animal, game animal	animal	animal	animal		ã́ìmìrã̀		ã́-ì-bãrã		lexicalized complex form eat stativizer passive.nominalizer.animate.plural
+10	Chacon 2014	0	0	ankle	ankle	tornozelo	tobillo		kṹárɨ́		'kũá=dɨ		bone CL.CIRCULAR
+11	Chacon 2014	0	0	ankle	ankle	tornozelo	tobillo		àñákũĩdɨ́		ãyã́ L+kũi=dɨ		snake bite CL.CIRCULAR, lit. 'the circular place where a snake bites at'
+12	Chacon 2016	0	0	waituto	Annona squamosa, Annona muricata	pinha, graviola	waituto, guanábana				piçábo		
+13	Morse et. all. 1999	0	0	fruta de guaytuto, guaytuto se llama “sopa dulce” y guanábana se llama “sopa agria”.	Annona squamosa, Annona muricata	pinha, graviola	waituto, guanábana	122	doðebɨabo		doyébɨ̀a=bo		doðe 'Traira, Hoplias malabaricus
+14	Chacon 2014	0	0	tamanduá-bandeira	anteater, Myrmecophaga spp.	tamanduá-bandeira	oso hormiguero		mìé		bĩé L		
+15	Chacon 2014	0	0	caramujo	aquatic snail	caramujo	caracol del agua		kà'wárɨ̀		kawá=dɨ̀		
+16		0	0	arm, from shoulder until the hand	arm	braço	brazo		àmúwè		abṹ=wè		
+17	Chacon 2014	0	0	mão	arm-LAX				pɨ̀'rɨ́		pɨdɨ́		Since this means hand, it should be in the HAND row, not lax for arm. -- LDM
+18		0	0		armadillo, general	tatu	armadillo, carachupa, gurre		pà'múrɨ̀		pabṹ=dɨ̀		
+19	Chacon 2014	0	0	tatu canastra	armadillo, giant, Priodontes giganteus or maximus	tatu canastra	carachupa mama		põépámúrɨ̀		'põé+pabũ=dɨ		lit. person armadillo
+20	Chacon 2014	0	0	arrive, away from the speaker	arrive	chegar	llegar		'èá		'eá-		
+21	Chacon 2014	0	0	arrive, towards the speakr	arrive	chegar	llegar		èdá		edá- L		
+22	Chacon 2014	0	0	arrive, away from the speaker	arrive, distal goal	chegar (meta distante)	llegar (allá)		'èá		'eá-		
+23	Chacon 2014	0	0	arrive, towards the speakr	arrive, proximal goal	chegar (meta próxima)	llegar (acá)		èdá		edá- L		
+24	Chacon 2014	0	0	flecha	arrow	flecha	flecha		'tẽ́mùyò		'tẽ́bù̃=yo		
+25	Chacon 2014	0	0	wild cane, cana de flecha	arrow-LAX				waeðo		waéðò		
+26	Chacon 2014	0	0	ashes	ashes	cinzas	ceniza		ũa		ũá L		
+27	Chacon 2014	0	0	ashes	ashes	cinzas	ceniza		ñè'mítɨ̀̃t∫ĩ		yẽbĩ́+tɨ̀̃t∫ĩ		charcoal+scale
+28	Chacon 2014	0	0	fuel, grease	ashes-LAX				nèó		'dẽó L		
+29	Chacon 2014	0	0	carvão	ashes-LAX				ñe'mí		yẽbĩ́ L		
+30	Chacon 2014	0	0	perguntar	ask, question	perguntar	preguntar		'hẽ́níárì̃ 'hã́		'hẽ́-dĩ+a-dĩ+hã́- L	hold CONVERB say CONVERB see	lexicalized converbial construction
+31	Chacon 2014	0	0	perguntar	ask, request	pedir	pedir		'hẽ́nìá		'hẽ́-dĩ+àHL	ask CONVERB see	lexicalized converbial construction
+32	Chacon 2014	0	0	tucumã, astrocaryum chambira	Astrocaryum chambira	tucumã	chambira		bè'tóñɨ̀		betó=yɨ̀̃	CL.PALM	
+33	Chacon 2014	0	0	tucum fiber	Astrocaryum chambira	tucumã	chambira				yũkã		
+34	Chacon 2014	0	0		Astrocaryum jauari	jauarí	coco de sardina, javarí, huiriríma (Peru)		'hìábètònɨ̃̀		'hiá+bèto=yɨ̃		river tucumã CL.PALM
+35	Chacon 2014	0	0		Attalea maripa, Maximiliana maripa	inajá	inayuga, marija, cucurita, palma real		èt∫ídìñɨ̀		et∫ídì=yɨ̃		
+36	Chacon 2014	0	0		avocado	abacate	palta, aguacate		ù̃'ñú		ũyṹ L		
+37	Chacon 2014	0	0	axe	axe	machado	hacha		hòékɨ́̀		hoé=kɨ́	axe CL.TREE	
+38	Chacon 2014	0	0	back	back	costas	espalda		yàpítɨ̃́mɨ́		yapí+tɨ̃́bɨ̃́		
+39	Chacon 2014	0	0	Bactris bidentula	Bactris corossilla	marajá	ñejilla, cuparú				yãpá tã́t∫ĩ́yɨ̃		
+40	Chacon 2016	0	0	guadua	bamboo, Guadua angustifolia, Guadua sp	bambu	guadua, bambú		wábɨ		wábɨ́		
+41	Chacon 2016	0	0	especie de bambu	bamboo, Guadua angustifolia, Guadua sp	bambu	guadua, bambú				ũbẽ́ kokobɨ		
+42	Chacon 2014	0	0		Banisteriopsis caapi	ayawaska, capi	ayahuasca		mìhí		bĩhĩ́		
+43	Chacon 2014	0	0	bark	bark, of tree	casca, de árvore	corteza, carapa		kàhé		kahé L		
+44	Chacon 2014	0	0	aturá	basket	cesto	cesto, canasta		pɨ̀é		'pɨé		
+45	Chacon 2014	0	0	bat	bat	morcego	murcielago		òðórɨ̀		oyó=dɨ̀		
+46	Chacon 2014	0	0	bathe	bathe	banhar-se	banarse		kù'yá		kuyá-		
+47	Chacon 2014	0	0	be angry	be angry	ter raiva	rabiar, enojarse				hodóhí̃		
+48	Chacon 2014	0	0	anger	be angry	ter raiva	rabiar, enojarse				hihé L		
+49	Chacon 2014	0	0	be bad	be bad	mal	estar malo		à̃mé-		ãbé̃-		
+50	Chacon 2014	0	0	be bitter	be bitter	amargo	amargo		hɨ̀̃ménò		hɨ̃bé̃-dò̃	dõ count nominalizer	
+51	Chacon 2014	0	0	bitter as green plantain	be bitter	amargo	amargo		mukurõ		bũkú-dṍ		
+52	Chacon 2014	0	0	be black	be black	preto	negro		ỹè'mínò		yẽbĩ́-dò̃	dõ count nominalizer	
+53	Chacon 2014	0	0	be blue, be green	be blue	azul	azul		hɨ̀̃ménó		hɨ̃bé̃-dó̃	dõ count nominalizer	
+54	Chacon 2014	0	0		be born	nascer	nacer		'pò̃été		põé+té-		person do, be, become
+55	Chacon 2014	0	0	evening; anoitecer	be dark, be night	escuro	oscuro		nàí		dãí-		
+56		0	0	be deep	be deep	ser fundo	ser hondo		ɨ̃̀mɨ́hɨ̀		ɨ̃bɨ̃́-hɨ̀-		high verbalizer
+57	Chacon 2014	0	0	igapó	be deep-LAX	igapó	rebalse		dɨ̀íbò		dɨí=bò		
+58	Chacon 2014	0	0	be drunk	be drunk	estar bebado	(estar) mareado, borracho, ebrio		pàkó		pakó L		
+59	Chacon 2014	0	0	get dress; get in; get inserted	be encased in sth, wear clothes		estar metido, vestirse (ropa), llevarse (ropa)		dò		do- 'HL		
+60	Chacon 2014	0	0	be good	be good	ser, estar bom	ser, estar bueno		mèá		bẽá-		
+61	Chacon 2014	0	0	to hang oneself	be hanging	estar pendurado	estar colgado		yùyú		yuyú L		
+62	Chacon 2014	0	0		be happy	estar feliz	estar felíz		tòróhɨ̀		todó-hɨ̀-		adornment verbalizer
+63	Chacon 2014	0	0	be hard	be hard	ser duro	ser, estar duro		hã̀hã́		hãhã́		
+64	Chacon 2014	0	0	be heavy	be heavy	ser pesado	ser pesado		dɨ̀kɨ́		dɨkɨ́		
+65	Chacon 2014	0	0	hunger	be hungry	ter fome	tener hambre		ã̀ṹwè		ãú-è	noun, to be hungry can be expressed with the incorporation of this noun to verbs such as yai 'to die' or ihi 'to be in pain	food mass
+66	Chacon 2014	0	0	agachar-se	be in inclined position	estar agachado	estar agachado, estar inclinado		màkã́́t∫ĩ̀		bãkã́́t∫ĩ̀		
+67	Chacon 2014	0	0	to incline oneself	be in inclined position	estar agachado	estar agachado, estar inclinado		nã̀kã́t∫ĩ̀		dã̀kã́t∫ĩ̀		
+68	Chacon 2016	0	0	sit inclined	be in inclined position	estar agachado	estar agachado, estar inclinado				kãtãhĩbɨ doba-		
+69	Chacon 2014	0	0	inside	be inside closed space, stative	estar dentro (espaço fechado)	estar adentro (de un espacio cerrado)		hìwɨ́		hiwɨ́	post-position	
+70	Chacon 2014	0	0	inside	be inside nonclosed space, stative	estar dentro	estar adentro		hìwɨ́		hiwɨ́	post-position	
+71	Chacon 2016	0	0	be inside	be inside nonclosed space, stative	estar dentro	estar adentro				ĩbã́ L		
+72	Chacon 2014	0	0	be lazy	be lazy	ser preguiçoso	perezoso, flojo		hũ̀rã́		hũ̀dã́		likely cognate with Tuyuka @@@ -Thiago Chacon
+73	Chacon 2014	0	0	be long, be far	be long	ser longo	ser largo		hòá		hoá L		
+74	Chacon 2014	0	0	to be hang, e.g. in a hammock	be lying (in hammock)	estar deitado na rede	acostarse en hamaca		yùyú		yuyú L		
+75	Chacon 2014	0	0	to lie down	be lying (on surface)	estar deitado	acostarse		pàrá		padá L		
+76	Chacon 2016	0	0	estrecho	be narrow	ser estreito	estrecho, angusto				kõtã́hɨ̃		
+77	Chacon 2014	0	0	be narrow	be narrow	ser estreito	estrecho, angusto		tã̀ì'tṍ		tãitṍ		
+78	Chacon 2014	0	0	ter cheiro	be odorous (fragrant)	ter cheiro	estar oloroso		kòràhɨ́		kodá́-hɨ̀		
+79	Chacon 2016	0	0	stick on horizontal surface	be on horizontal surface, stative		estar echado, estar pegado (superficie horizontal)				kutú L		
+80	Chacon 2016	0	0	be over a high object as table, tree branches	be on vertical surface, stative		estar pegado (superficie vertical)				tubá L		
+81	Chacon 2016	0	0	be on the ground	be on vertical surface, stative		estar pegado (superficie vertical)				padá L		
+82	Chacon 2014	0	0	pregnant woman	be pregnant	estar grávida	estar embarazada, preñada, encinta		mì'kákó		bĩká-kó		deverbal
+83	Chacon 2014	0	0	to be ripe	be ripe	estar maduro, amadurecer	(estar) maduro		hũ̀á		hũá		
+84	Chacon 2014	0	0	get full of eating	be ripe-LAX						yapí-		
+85	Chacon 2014	0	0	become sad	be sad	estar triste	estar triste, tener pena		t∫ĩ̀ó		t∫ĩó L		
+86	Chacon 2014	0	0	to sharpen	be sharp (of edge)	estar afiado	tener filo, estar filoso/afilado		hè'wɨ́yà		hewɨ́+yà-		ya causative
+87	Chacon 2014	0	0	to shine	be shiny, reflect light, speaking of sth that is not a light source, such as metal	brilhar, brilhante	brillar		kòhí		kohí L		
+88	Chacon 2014	0	0	to shine	be shiny, reflect light, speaking of sth that is not a light source, such as metal	brilhar, brilhante	brillar		miaða		bĩa+ya		
+89	Chacon 2014	0	0	to become sick	be sick	doente, adoecer	enfermarse		ìhétè		ihétè		
+90	Chacon 2014	0	0	to die, to become seriously ill	be sick	doente, adoecer	enfermarse		yàì		yaìHL		HL root, stress falls in the next affix, where H docks, L will dock if there is a subsequent syllable; the root surfaces as LL when there is affixation
+91	Chacon 2014	0	0	to be sitting	be sitting, stative	estar sentado	estar sentado		dò'bá		dobá L		
+92		0	0	down river, south	be sitting, stative-LAX		estar sentado		'dùíká		duíka-		
+93	Chacon 2014	0	0	small	be small	pequeno	pequeño		'kɨ́hĩ́		'kɨ́hĩ-		
+94	Chacon 2014	0	0	smooth, flat	be smooth		liso		ya'ri		yadi		
+95	Chacon 2014	0	0	soft	be soft	macio, mole	ser, estar suave, blando		yu'tu		yutu		
+96	Chacon 2014	0	0	soft	be soft	macio, mole	ser, estar suave, blando		me'kã		bẽkã		
+97	Chacon 2014	0	0		be sour		agrio		ù'pìá		upiá L		
+98	Chacon 2014	0	0		be sour		agrio		kù'pìá		kupiá L		
+99	Chacon 2014	0	0	to stand	be standing up		estar de pie, pararse		'nú		'dṹ L		
+100	Chacon 2014	0	0	to issue a bad smell	be stinky, issue a bad smell		apestar (heder)		ɨ̃̀'rṍhɨ̀		ɨdṍ-hɨ̀-		
+101	Morse et al. 2000	0	0	be strong	be strong, powerful		tener fuerza		tutu		tutu		
+102	Chacon 2014	0	0	be strong	be strong, powerful		tener fuerza		pà'rɨ́		padɨ́ L		
+103	Chacon 2014	0	0	be sweet	be sweet		dulce		è'míhɨ̀		ebĩ́-hɨ̀		
+104	Chacon 2014	0	0	to have taste, to be tasty	be tasty		sabroso		'wàíhɨ́		'waíhɨ		
+105	Chacon 2014	0	0	to be thirsty	be thirsty		tener sed		kõi'ño		kõiyṍ L		
+106	Chacon 2014	0	0	be tired	be tired, be fatigued from activity		(estar) cansado		'ɨ̀étɨ̀-		'ɨetɨ-		from will drop, fall
+107	Chacon 2014	0	0	to rest	be tired, be fatigued from activity-LAX				hàbɨ́wà		habɨ́wà-		likely cognate with MAI @@@ -Thiago Chacon
+108	Chacon 2014	0	0	to know, to be able to	be used to		acostumbrarse		mà'hí		bãhí- L		
+109	Chacon 2014	0	0	to walk, to be used to	be used to		acostumbrarse		kù		ku- HL		
+110	Chacon 2014	0	0	to be visible	be visible, appear		ser visible, aparecer		'hárò		'hárò-		
+111	Chacon 2014	0	0	body	be visible, appear		ser visible, aparecer				bahu		
+112	Chacon 2014	0	0	to be hot	be warm, hot, of weather or obj		caliente		tòáhì		'toáhì-		
+113	Chacon 2014	0	0	weak, not strong	be weak		débil		pà'rɨ́bè		padɨ́-bè-		
+114	Chacon 2014	0	0	wet	be wet		mojado		yà'kɨ́		yakɨ́ L		
+115	Chacon 2014	0	0	to become wet	be wet		mojado		ẽ̀nú		ẽdṹ-		
+116	Chacon 2014	0	0	be white	be white		blanco		bò-		bò- HL		
+117	Chacon 2014	0	0	classifier wide and flat area	be wide		ancho				#NOM?		
+118	Chacon 2014	0	0	big, wide	be wide		ancho				ɨdá L		
+119	Chacon 2014	0	0	espaçoso	be wide		ancho		kõ̀tã́hɨ̀		kõtã́-hɨ̀		
+120	Chacon 2014	0	0	yellow	be yellow		amarillo		kɨ̃rã hɨme		kɨ̃dã+hɨbẽ		refers to some sort of clay that is yellowish
+121	Morse et al 2000	0	0	beads	bead (N)		chaquira, mullo, abalorio		moahida		bõahida		
+122	Chacon 2014	0	0	facial hair, beard and moustache	beard		barba		hèwɨ́		hewɨ́ L		
+123	Chacon 2014	0	0	dry out, become skinny	become skinny (of person/object), become smoked (of food)		enflaquecerse, estar ahumado		hɨ̀yɨ́		hɨyɨ́		
+124	Chacon 2014	0	0	to smoke meat	become skinny (of person/object), become smoked (of food)-LAX		enflaquecerse, estar ahumado		hɨ̀yó		hɨyó		
+125	Chacon 2014	0	0	bee	bee		abeja		mòmí		bõbĩ́ L		
+126	Chacon 2014	0	0	beetle	beetle		escarabajo, chinche		kɨ̀rá tṍbṍrɨ̀		kɨdá tõbõ=dɨ		
+127	Chacon 2014	0	0	burp	belch, burp		eructar		ai		ai		
+128	Chacon 2014	0	0	belly, stomach	belly	barriga	barriga		yàpíbɨ́		yapí=bɨ		
+129	Chacon 2014	0	0	belly	belly	barriga	barriga		kùrúkɨ̀		kudú=kɨ̀		
+130	Chacon 2014	0	0	navel	belly button (navel)	umbigo	ombligo		hõ̀mɨ́rò		hõbɨ̃́=dò		
+131	Chacon 2014	0	0	bench	bench	banco	banco		yɨ̃ákà		yɨ̃á=kà	thigh, knee classifier	
+132	Chacon 2014	0	0	big	big	grande	grande		ɨ̀dá		ɨdá- L		
+133	Chacon 2014	0	0	bird	bird, general	pássaro	pajaro, ave		míhĩ̀kɨ̀		bĩ́=hĩ̀-kɨ		root is mi which occurs in compounds
+134	Chacon 2014	0	0	bite	bite, general	morder	morder		kṹ-		kṹ-		
+135	Chacon 2014	0	0	bite	bite, PLACT	morder	morder		kṹkṹ-		kṹkũ		reduplication. I guess we shouldnt count it as different from the non-reduplicated form if all the languages pattern this way @@@ -Thiago Chacon
+136	Chacon 2014	0	0	pium	biting gnat, Simulium spp.	pium	`mosca negra,` arenilla		hùhíkɨ̀		huhí-kɨ̀		
+137	Chacon 2014	0	0	blood	blood	sangue	sangre		hìwébù		hiwé L		
+138	Chacon 2014	0	0	to blow	blow (with mouth), shoot blowgun	soprar	soplar		pú		pú- L		
+139	Chacon 2016	0	0	blow	blow (with mouth), shoot blowgun	soprar	soplar				hapúyɨ		
+141	Chacon 2014	0	0	to heal, shaman	blow (with mouth), shoot blowgun, PLACT-LAX	soprar	soplar		pùpú		pupú- L		reduplication. I guess we shouldnt count it as different from the non-reduplicated form if all the languages pattern this way @@@ -Thiago Chacon
+142		0	0		blowgun	zarabatana	cerbatana, bodoquera, pucuna		pɨ̀óñɨ̀		pɨó=ñɨ̀		pu blow o applicative ñɨ classifier palm
+143	Chacon 2014	0	0	barranco, inclinação	bluff, cliff, esp. at riverbank	barranco	barranco, acantilado		tɨ̀róbɨ̀		tɨróbɨ̀		
+144	Chacon 2014	0	0	barranco, depressão	bluff, cliff, esp. at riverbank	barranco	barranco, acantilado		tãkṹbɨ̀		tãkṹbɨ̀		
+145	Chacon 2014	0	0	to boil	boil (VI)	ferver	hervir		kùàká		kuaká-		
+146	Chacon 2014	0	0	bone	bone	osso	hueso		kũ̀árɨ́		kũá=dɨ		
+147	Chacon 2014	0	0	ribs	bone-LAX	osso	hueso		tẽ́táráðò		tẽ́+tada=yo		
+148	Chacon 2014	0	0	larva, non edible, grows in wounds	botfly larva, lives in animal	tapuru	gusano		húkɨ́̀		hú-kɨ́		
+149	Chacon 2014	0	0	bow	bow	arco	arco, balista		tẽ́bũ̀tàràbɨ̀		tẽ́bũ+tada=bɨ		
+150	Chacon 2014	0	0	brain	brain	cérebro	cerebro		hìpóhíá		hipó+hia		
+151	Chacon 2014	0	0	branch	branch	galho	rama		kawábɨ̀		kawábɨ̃		
+152	Chacon 2014	0	0	break	break (VI)		romperse		kòpó		kopó- L		
+153	Chacon 2014	0	0	break	break (VI)		romperse		tõ̀á		tõá-		
+154	Chacon 2014	0	0	rasgar-se	break (VI)		romperse		haðe		haye-		
+155	Chacon 2016	0	0	desbaratar, dejar caer	break (VI) in many pieces, of sth rigid and 2D		romperse, desbaratar				dãhuá L		
+156	Chacon 2014	0	0	hatch eggs	break (VI), of sth rigid and 3D such as an egg, NON-PLACT		romperse, chancarse				ye-		
+157	Chacon 2016	0	0	break	break (VI), of sth rigid and 3D such as an egg, NON-PLACT		romperse, chancarse				kopó L		
+159	Chacon 2014	0	0	break	break (VT)		romper, quebrar		kòbá		kobá- L		
+160	Chacon 2014	0	0	break, split	break (VT)		romper, quebrar		bùré		budé- L		
+161	Chacon 2014	0	0	break, split	break (VT)		romper, quebrar		bùrá		budá- L		
+162	Chacon 2016	0	0	break in half	break (VT)		romper, quebrar				kotɨwa		
+163	Chacon 2014	0	0	break in half	break (VT) in half, of sth rigid, completely breaking or cutting		trozar, pedacear		pɨ̀yó		pɨyó- L		
+164	Chacon 2016	0	0	break in half	break (VT) in half, of sth rigid, completely breaking or cutting		trozar, pedacear				tṍ		
+165	Morse et. al. 200	0	0	desmenuzar	break (VT) into many pieces, of sth brittle such as tobacco leaves, crumble		desmenuzar				koboyowa		
+166	Morse et. al. 200	0	0	desmenuzar	break (VT) into many pieces, of sth brittle such as tobacco leaves, crumble		desmenuzar				t∫ĩtẽ		
+167	Morse et. al. 2000	0	0	desmenuzar	break (VT) into many pieces, of sth brittle such as tobacco leaves, crumble		desmenuzar				tõtõwa		
+168	Chacon 2016	0	0	break	break (VT), of sth rigid and 3D such as an egg		chancar				kopó L		
+169	Chacon 2014	0	0	break in half, break maize, break sticks to indicate the way	break (VT), of sth rigid, without complete break; as you break branches to indicate path		quebrar		pɨ̀yó		pɨyó		
+170	Chacon 2014	0	0	breast	breast		seno		òpé		opé L		
+171	Chacon 2014	0	0	suck, smoke	breastfeed, of baby		mamar				dù̃ H		
+172	Chacon 2014	0	0		breastfeed, of mother		amamantar		nɨo		dɨ̃ó L		
+173	Chacon 2014	0	0		breathe	respirar	respirar		ũme ĩ		ũbẽ́+ĩ̀-		
+174	Chacon 2014	0	0	bring	bring		traer		dàwá		da-wá L		come causative
+175	Chacon 2014	0	0		brother-in-law		cuñado		wákɨ̀		wá-kɨ̀		
+176	Chacon 2014	0	0	burn on fire VI	burn, be on fire, VI		quemarse		'ẽ́		'ẽ́- L		
+177	Chacon 2014	0	0	burn like chili	burn, be on fire, VI		quemarse				'uí- L		
+178	Chacon 2014	0	0	burn VT, roast	burn, consume with fire, VT	queimar	quemar		hùá		huá		
+179	Chacon 2015	0	0	chamuscar	burn, consume with fire, VT	queimar	quemar				ué		
+180	Chacon 2014	0	0	shotgun shot, firewood exploding in fire	burst, break open, of a container or blister (VI), NON-PLACT		reventar, estallar, p.ej una ampolla		po-				
+181	Chacon 2014	0	0	break open of a pod	burst, break open, of a container or blister (VI), NON-PLACT		reventar, estallar, p.ej una ampolla		'pa-				
+182	Chacon 2016	0	0	break	burst, break open, of a container or blister (VI), NON-PLACT		reventar, estallar, p.ej una ampolla				kopó		
+184	Chacon 2014	0	0	burry	bury		enterrar		yùwá		yuwá		
+185	Chacon 2014	0	0	butterfly	butterfly		mariposa		tàtádókó				
+186	Chacon 2014	0	0	buttocks	buttocks		nalga		kɨ̀rábɨ́				fieces cl container
+187	Chacon 2014	0	0	cayman	caiman, Caiman spp.		caimán, babilla, lagarto		hìá́bɨ̀		hiá+bɨ̀		river lizzard
+188	Chacon 2014	0	0	calf	calf		pantorilla		ã̀rã́kòròbɨ̀		ãdã́+kòdo=bɨ		shin liquid cl 'container
+189	Chacon 2014	0	0	call	call (VT)		llamar a				'órèha-		
+190	Chacon 2016	0	0	call, invite	call (VT)		llamar a				kutú L		
+191	Chacon 2014	0	0	canoe	canoe		canoa				hiáðò=kũ		
+192	Chacon 2014	0	0	macaco-prego, Cebus apella	capuchin monkey, Cebus, Sapajus spp		mono blanco/neɡro, mico maicero				také L		
+193	Chacon 2014	0	0	capybara	capybara, Hydrochoerus hydrochaeris		ronsoco, yulo, capibara, chiguiro		ñarẽ		yãdẽ́		
+194	Morse et. al. 2000	0	0	capybara	capybara, Hydrochoerus hydrochaeris		ronsoco, yulo, capibara, chiguiro		hiaka wekɨ				river from tapir
+195	Chacon 2014	0	0	carry, transport	carry (general)		cargar, acarrear, llevar		hòrá		hodá L		
+196	Chacon 2014	0	0	carry on arms	carry (in arms)		amarcar		dɨ̀dɨ́		dɨdɨ́ L		
+197	Chacon 2014	0	0	carry on back	carry (on back)		cargar en la espalda		ũ̀má		ũbã́- L		
+198	Chacon 2014	0	0	carry over the head or shoulders	carry (on shoulder)		cargar en el hombro, hombrear		tù		tu- HL		
+199	Chacon 2014	0	0	carve a canoe	carve out inside of canoe		tallar, labrar		tɨ̀té		tɨté-		
+200	Chacon 2016	0	0	casa da oruga de mariposa	caterpillar		oruga, bayuca				kaidĩhĩka		
+201	Chacon 2016	0	0	casa de la lombriz de rebalse	caterpillar		oruga, bayuca				ɨmɨkarurubo		
+202	Chacon 2014	0	0	edible cartepillar	caterpillar		oruga, bayuca		yapet∫imukɨ				no generic
+203	Chacon 2014	0	0	centipede	centipede		ciempiés (escolopendra)		awibẽkɨ		awibẽkɨ		
+204	Chacon 2014	0	0	scorpion	centipede-LAX		ciempiés (escolopendra)		murĩ				
+205	Chacon 2014	0	0	cheek	cheek		mejilla		wìyóbɨ̀		wióbɨ̀		
+206	Chacon 2014	0	0	chest	chest		pecho		dekó=dɨ̀		dekó=dɨ̀		deko soul, spirit
+207	Chacon 2014	0	0	chest	chest		pecho		ñàrẽ́=bà		yãdẽ́=bà		
+208	Chacon 2016	0	0	mascar	chew hard obj, gnaw on obj, as a bone		mascar, roer				hãhɨ̃́		
+209	Chacon 2014	0	0	chew	chew sth soft, chew to a mash, as manioc in making manioc beer		masticar		hãhɨ̃		hãhɨ̃- ?		
+210	Chacon 2014	0	0	owner, master	chief (leader)		jefe, cacique, apu, capitán		ùpákɨ̀				
+211	Chacon 2014	0	0	chief	chief (leader)		jefe, cacique, apu, capitán		hàbókɨ̀				
+212	Chacon 2014	0	0	child, sma	child		niño		'kɨ́hĩ́		'kɨ́hĩ-		
+213	Chacon 2014	0	0	child	child		niño		'hɨéðò		'hɨéðò-		
+214	Chacon 2014	0	0	diminutive suffix	child-LAX		niño		hĩ		#NOM?		
+215	Chacon 2014	0	0	chili	chili pepper, Capsicum spp.		ají, pimiento, chile		bìá		biá L		
+216	Chacon 2014	0	0	beard	chin		mentón, barbilla				hewɨ=bo		
+217	Chacon 2014	0	0	clean a terrain, cut down trees	clear land		rozar				koé L		
+218	Chacon 2014	0	0	clean, wipe	clear land-LAX						tɨ̃dẽ		
+219	Chacon 2014	0	0	close	close (VT), NON-PLACT		cerrar				biá L		
+220	Chacon 2014	0	0	surround, to fence	close (VT), NON-PLACT		cerrar				bié L		
+221	Chacon 2014	0	0	skin, bark	cloth		tela, corte de tela				kahé L		
+222	Chacon 2014	0	0	cloth, clothes	cloth		tela, corte de tela				kuitótè+kahe		cotton skin
+223	Chacon 2014	0	0	cloud	cloud	nuvem	nube				okó+pèdĩ		
+224	Chacon 2014	0	0	air, heart, vitality	cloud-lax						ũbẽ́ L		
+225	Chacon 2014	0	0	smoke	cloud-lax						bikó L		
+226	Chacon 2014	0	0	cuati	coati, Nasua spp.		coati, achuni, cosumbo				paipí L		possible borrowing from Arawakn languae
+227	Chacon 2014	0	0	cockroach	cockroach		cucaracha		mùmáró wèkò				
+228	Chacon 2014	0	0	cold	cold		frío				hɨhɨ́- L		
+229	Chacon 2014	0	0	rainy season	cold snap Sp “friaje”		friaje				ɨdá+kòdo		big liquid
+230	Chacon 2016	0	0	tuberculo pequeno	Colocasia sp, taro		(a)chonque, mandi, huitina, papa china				puyu		
+231	Chacon 2016	0	0	tubérculo	Colocasia sp, taro		(a)chonque, mandi, huitina, papa china				kã́ðè̃ka		
+232	Chacon 2014	0	0	comb	comb hair (V)		peinarse				waiwé- ?		
+233	Chacon 2014	0	0	come	come		venir				dà- HL		
+234	Chacon 2014	0	0	chat	converse		conversar				bodo+te-		news do
+235	Chacon 20104	0	0	drink	converse-LAX						ũkũ		
+236	Chacon 2014	0	0	invite	converse-LAX						kutú L		
+237	Chacon 2014	0	0	boil sth	cook by boiling, cause sth to boil		cocinar (hervir)				koakáwà-		
+238	Chacon 2014	0	0	roast	cook sth by roastng		cocinar (asar)				hoà- HL		
+239	Chacon 2014	0	0	roast	cook sth in leaves		cocinar, asar en patarashca				hoà- HL		
+240	Chacon 2014	0	0	cooke, prepare food	cook, general (VT)		cocinar, cocer				hatɨó- L		
+241	Chacon 2014	0	0	to have sex	copulate, have sex with		copular, tener relaciones sexuales, aparear				ðà- HL		
+242	Chacon 2013	0	0	maize	corn		maiz				weá L		
+243	Chacon 2014	0	0	truth	correct, right, true		correcto, verdad				hãwẽ́ L		
+244	Chacon 2014	0	0	correct, straight	correct, right, true		correcto, verdad				dũrĩ́ L		
+245	Chacon 2014	0	0	wild cotton	cotton		algodón				yɨí L		
+246	Chacon 2014	0	0	cotton	cotton		algodón				kuitótè		
+247	Chacon 2014	0	0	cough	cough		toser, tosear				kõhõ-		
+248	Chacon 2014	0	0	to count, to measure	count, measure		contar, medir				kodé- L		
+249	Chacon 2014	0	0	cover, fill, close	cover (a hole)		cubrir (tapar)				bié- L		
+250	Chacon 2014	0	0	cover, close	cover (a hole)		cubrir (tapar)				bõá- L		
+251	Chacon 2016	0	0	cover	cover (with horizontal surface), NON-PLACT		cubrir				bõá L		
+253		0	0	put sth on the head, to have fever	cover (with sth 3D), put on hat		cubrir				bó̃- L		
+254	Chacon 2014	0	0	crab	crab		cangrejo				kãbĩ=dɨ		
+255	Chacon 2014	0	0	crawl	crawl/walk on all fours		gatear				papé- L		
+256	Chacon 2014	0	0	cricket	cricket, grasshopper		grillo, saltamontes				bũhṹñú		
+257	Chacon 2014	0	0	crock	crock, vase, ceramic vessel w/ narrow neck		tinaja				pako+hodo=bɨ		
+258	Chacon 2014	0	0	cross a river or a path	cross river		cruzar el rio				hatá- L		
+259	Morse et. al. 2000	0	0	parrallel aunt	cross-aunt		tia, hermana del padre				pako+bã-ko		lit. mother off.spring fem
+260	Chacon 2014	0	0	cross uncle	cross-uncle		tio, hermano de madre				'pã́rĩ́yṍ		
+261	Chacon 2014	0	0	cross uncle	cross-uncle		tio, hermano de madre				'pã́rĩ́bṹ		
+262	Chacon 2014	0	0	crush	crush sth hard, squash, e.g. a spider (VT)		aplastar				t∫ĩtṍ		
+263	Chacon 2014	0	0	cry	cry		llorar				'ó- L		
+264	Chacon 2014	0	0	white mutum	currasow, Crax spp		paujil				ãdṍ+kũ̀ibo		
+265	Chacon 2014	0	0	black mutum	currasow, Crax spp		paujil				hɨyɨ́kɨ́		
+266	Chacon 2014	0	0	cut	cut (general)		cortar				budá- L		
+267	Chacon 2014	0	0	cut down trees	cut, cut down, fell tree (trans)		cortar (tumbar, derrumbar, rebanar,)				budé- L		
+268	Chacon 2014	0	0	clean a terrain, cut down trees	cut, cut down, fell tree (trans)		cortar (tumbar, derrumbar, rebanar,)				koé L		
+269	Chacon 2014	0	0	cut in pieces	cut, divide carcass into parts		descuartizar, pedacear, cortar				budé- L		
+270		0	0	cut in pieces in order to share food, fruits, etc;Morse et. al 2000	cut, divide carcass into parts		descuartizar, pedacear, cortar				kotɨte-		
+271	Chacon 2014	0	0	divide food in pieces	cut, divide carcass into parts		descuartizar, pedacear, cortar				kõpãwã		
+273	Chacon 2014	0	0	cut in pieces	cut, of hard object, into many pieces of similar size, e.g. a log; whether down central axis or not		trozar, cortar, pedacear				budé- L		
+274		0	0	cut in pieces in order to share food, fruits, etc;Morse et. al 2000	cut, of hard object, into many pieces of similar size, e.g. a log; whether down central axis or not		trozar, cortar, pedacear				kotɨte-		
+275	Chacon 2014	0	0	parica	Datura hallucinogen		toé				but∫í p`ẽdã		
+276	Chacon 2014	0	0	dautgher	daughter		hija				'bã́kò		
+277	Chacon 2014	0	0	daughter in law	daughter-in-law		nuera				'wákò		
+278	Chacon 2014	0	0	issue light, shine	dawn (VI), see the dawn		amanecer		mìàðá		bĩayá́L		
+279	Chacon 2014	0	0	liar	deceive		engañar		mèyú		bẽyú		
+280	Chacon 2014	0	0	deer	deer		venado				yãbã́-kò		
+281	Chacon 2014	0	0	defecate	defecate		defecar				bãkã́hã̀-		
+282	Chacon 2014	0	0	fieces	defecate-LAX						kɨdá		
+283	Chacon 2014	0	0	devil	demon/evil spirit		espiritu malo, demonio				abúhù-kɨ		
+284	Chacon 2014	0	0	ancestral spirit	demon/evil spirit		espiritu malo, demonio				ãt∫ĩ		
+285	Chacon 2014	0	0	to die, to become seriously ill	die, NON-PLACT		morir		yàì		yaì HL		
+286	Chacon 2014	0	0	to kill, to hit	die, NON-PLACT-LAX						boà HL		cognate with Tuyuka 'hit'
+288	Chacon 2014	0	0	dig	dig		cavar				yoa		
+289	Chacon 2014	0	0	dig	dig		cavar				ũ		
+290	Chacon 2014	0	0	digging stick	digging stick	enxó	azada, azadón				ũ-i-bo		dig stative cl.oval?
+291	Chacon 2014	0	0	dirt	dirt, filth (N)	sujeira	suciedad, mugre				dokɨ́- HL		
+292	Chacon 2014	0	0	disapeer, die	disappear		desaparecer				bí+hà-		
+293	Chacon 2014	0	0	run away, flee	disappear		desaparecer				dupi		
+294	Chacpn 2014	0	0	throw away, discard	discard		botar				hadɨ́wà-		
+295	Chacon 2014	0	0	throw	discard		botar				dɨwa		
+296	Chacon 2014	0	0	throw away	discard		botar				dɨde-		
+297	Chacon 2014	0	0	make	do		hacer			ða;a	ða-		
+298		0	0		dolphin		bufeo, delfín				okó hàpuyɨ		
+300	Chacon 2014	0	0	my relative, friend, companion, pet	domesticated animal, pet		animal domesticado, mascota				hí-kɨ̀		
+301	Chacon 2014	0	0	door	door		puerta				hedéwà+kobe		
+302	Chacon 2014	0	0	door	door		puerta				hadéwà+kobe		
+303	Chacon 2014	0	0	down river	downriver		río abajo				duí		
+304	Chacon 2014	0	0	drink	drink		beber, tomar				ũkṹ- L		cognate with ET ~uku 'to chat' @@@ -Thiago Chacon
+305	Chacon 2014	0	0	gotejar	drip (VI)		gotear				yu H		
+306	Chacon 2014	0	0	drop	drop, NON-PLACT		dejar caer				dãhṹ L		
+308	Chacon 2014	0	0	get dry	dry (VI)	secar-se	secarse				popó- HL		
+309	Chacon 2014	0	0	to dry, to low, river	dry (VI)	secar-se	secarse				koa		
+310	Chacon 2014	0	0	become dry, leaves, etc.	dry (VI)	secar-se	secarse				hɨyɨ́-		
+311	Chacon 2014	0	0	put clothes to dry	dry (VT)		secar				hapópò		
+312	Chacon 2014	0	0	dust	dust, fine dirt	poeira	polvo				hobó+bìko		earth dust
+313	Chacon 2014	0	0	mud							yaó		
+314	Chacon 2014	0	0	ear	ear		oreja				'kã́bũ=ka		
+315	Chacon 2014	0	0	earth, land, soil	earth, dirt, mud, soil	terra	tierra				hobó-dõ̀		
+316	Chacon 2014	0	0	mud	earth, dirt, mud, soil	terra	tierra				yaó		
+317	Chacon 2014	0	0	earth, land, soil	earth, extension of land		tierra				hobó-dõ̀		
+318	Chacon 2014	0	0	ground, low	earth, extension of land-LAX						yebá		
+319	Chacon 2014	0	0	eat	eat	comer	comer				ã̀- HL		
+320	Chacon 2014	0	0	eat, feast	eat	comer	comer				hawátè-		
+321	Chacon 2014	0	0	want	eat-LAX						ɨ̀- HL		
+322	Chacon 2014	0	0	edge	edge, relational N		borde, lado				ẽkã́- L		
+323	Chacon 2014	0	0	border	edge, relational N		borde, lado				tɨdɨbo		
+324	Chacon 2014	0	0	egg	egg		huevo				'hĩ́=dɨ̀		
+325	Chacon 2014	0	0	elbow	elbow		codo				adɨ́=yò		
+326	Chacon 2014	0	0	hug	embrace, hug		abrazar				dãdĩó L		
+327	Chacon 2014	0	0	to sound	emit noise, sound		sonar				bɨhɨ́- L		
+328	Chacon 2014	0	0	end, tip, limit	end/tip, relational N		punta				tɨdɨ́- L		
+329	Chacon 2014	0	0	peninsula	end/tip, relational N		punta				kãṕĩ=dò		
+330	Chacon 2014	0	0	enter	enter		entrar				kò HL		
+331	Chacon 2014	0	0	enter	enter (a closed space, telic V)		entrar				ekó L		
+332	Chacon 2014	0	0	stick sth in, get something into	enter (a closed space, telic V)-LAX						pià HL		
+333	Chacon 2014	0	0	japura	Erisma japura		??				'dápòa		
+334	Chacon 2014	0	0	coca	Erythroxylum coca		coca				'pátù		
+335	Chacon 2014	0	0	açaí	Euterpe precatoria	açai	huasaí				ẽbĩ́+bõè		
+336	Chacon 2014	0	0	be, exist	existential verb		haber, existir				bà- HL		
+337	Chacon 2014	0	0	exist	existential verb		haber, existir				kɨ̀- H		
+338	Chacon 2014	0	0	exit	exit		salir				etá L		
+339	Chacon 2014	0	0	exit	exit (a closed space, telic verb:motion verb)		salir				etá L		
+340	Chacon 2016	0	0	bloom	expand, open, e.g of a flower or canoe, VI		reventar, abrirse				pó L		
+341	Chacon 2014	0	0	open, expand, bloom	expand, open, e.g of a flower or canoe, VI		reventar, abrirse				wo HL		
+342	Chacon 2014	0	0	open, expand, bloom	expand, open, e.g of a flower or canoe, VI		reventar, abrirse				woá L		
+343	Chacon 2014	0	0	eyes	eye	olho	ojo				yakó=dɨ̀		singular form express the pair
+344	Chacon 2014	0	0	face	face		cara				hiwá L		
+345	Chacon 2014	0	0	fall	fall, NON-PLACT	cair	caer				tɨ̀ HL		
+347	Chacon 2014	0	0	fan	fan		abanico				yũkã́=bà		cumare cl. weaved
+348	Chacon 2014	0	0	far	far	longe	lejos				hoá L		
+349	Chacon 2014	0	0	ágil	fast		rápido				'yaɨ́- L		
+350	Chacon 2014	0	0	quickly	fast		rápido				hɨhɨ-e		
+351	Chacon 2014	0	0	quickly	fast		rápido				bãu-be		stay not
+352	Chacon 2014	0	0	fuel, grease	fat, grease	gordura	grasa, manteca		nèó		'dẽó L		
+353	Chacon 2014	0	0	carvão	fat, grease	gordura	grasa, manteca		ñe'mí		yẽbĩ́ L		
+354	Chacon 2014	0	0	father	father	pai	padre				pakɨ́		
+355	Chacon 2014	0	0	father in law, son in law	father-in-law		suegro				wá-kɨ̀		
+356	Chacon 2014	0	0	father's brother	father's brother		tío, hermano del padre				pakɨi+bãkɨ		
+357	Chacon 2014	0	0	father	father's brother		tío, hermano del padre				pakɨ́yó		
+358	Chacon 2014	0	0	to fear	fear	ter medo	tener miedo				hidɨ́ L		
+359	Chacon 2014	0	0	get affraid	fear	ter medo	tener miedo				'kuékùbã		
+360	Chacon 2014	0	0	excrement	feces		heces, excremento, materia fecal, mierda				kɨdá		
+361	Chacon 2014	0	0	feed	feed, offer noun:food (trans)		alimentar, dar de comer				ã-ó L		
+362		0	0	heating from sunlight	feel hot, of noun:person		tener calor				bó		
+363	Chacon 2014	0	0	be hot	feel hot, of noun:person		tener calor				'toáhì		
+364	Chacon 2014	0	0	fermented pupunha	ferment, become fermented/sour (VI)		fermentar				dãe		
+365	Morse et. al. 2000	0	0	fermented	ferment, become fermented/sour (VI)		fermentar				boké L		
+366	Chacon 2014	0	0	a few	few	pouco(s)	poco(s)				obé-bé		be many NEG
+367	Chacon 2014	0	0	a little	few	pouco(s)	poco(s)				pɨe-hĩ-dõ		more DIM INANIMATE
+368	Chacon 2014	0	0	a little, a few	few	pouco(s)	poco(s)				bãhieda		
+369	Chacon 2014	0	0	fight	fight		pelear				ãðã́bà̃te		
+370	Chacon 2014	0	0	fight, hit, kill	fight		pelear				boà HL		
+371	Chacon 2014	0	0	fill	fill (VI)		llenar				buì HL		
+372	Chacon 2014	0	0	get full of eating	fill (VI)		llenar				yapí́-		
+373	Chacon 2014	0	0	fill	fill (VT)		llenar				buì HL		
+374	Morse et. al. 2000	0	0	fill	fill (VT)		llenar				buiwa		
+375	Chacon 2014	0	0	find	find object		encontrar, hallar				'eá		
+376	Chacon 2014	0	0	meet	find, meet noun:person		reunir, encontrar, hallar, topar				kopɨ́ L		
+377	Chacon 2014	0	0	finger	finger		dedo				ãbṹ=yò		upper limb cl stick like
+378	Chacon 2014	0	0	nail, claw	fingernail/toenail/claw		uña, garra				kɨ̃ó L		
+379	Chacon 2014	0	0	end	finish (VI)		acabar/terminar				'kũí L		
+380	Chacon 2014	0	0	finish	finish (VT)		acabar, terminar (completar)				hebé L		
+381	Chacon 2014	0	0	finish	finish (VT)		acabar, terminar (completar)				'bɨóhà		
+382	Chacon 2014	0	0	finish	finish (VT)		acabar, terminar (completar)				bubá		
+383	Chacon 2014	0	0	fins	fins		aleta (de pescado)				kawébà		
+384	Chacon 2014	0	0	fire	fire	fogo	fuego				toá L		
+385	Chacon 2014	0	0	firefly	firefly, Lampyris sp.		luciérnaga				kedú L		
+386	Morse et al. 2000	0	0	firefly	firefly, Lampyris sp.		luciérnaga				yãpã́dokɨ		
+387	Chacon 2014	0	0	firewood	firewood		leña		pèká		peká L		
+388	Chacon 2014	0	0	first, new, young	first		primero				bãbã́- L		
+389	Chacon 2014	0	0	fish	fish (N)	peixe	pez		mòá		bõa L		
+390	Chacon 2014	0	0	tinguejar	fish (with barbasco)		barbasquear, pescar con veneno				è HL		
+391	Chacon 2014	0	0	fish with line and fishhook	fish (with line)		anzuelear, pescar con anzuelo, pescar con vara				hahówà		
+392	Morse et al. 2000	0	0	fish with a net	fish (with net)		pescar (con red), trampear, enredar				doye-		
+393	Chacon 2014	0	0	fishhook	fish hook		anzuelo				hahówàiyo		
+394	Chacon 2014	0	0	timbó	fish poison, Sp “barbasco”, Tephrosia sp.		barbasco				eó		
+395	Chacon 2014	0	0	fishing net	fishing net		red de pescar, tarrafa, atarraya				'pápìkɨ		
+396	Chacon 2014	0	0	zagaya	fishing spear		arpón				bõá tòtaino		
+397	Morse et al. 2014	0	0	zagaya	fishing spear		arpón				padibo		
+398	Chacon 2014	0	0	prendido	flame (VI)		arder		pè̃		pè̃- 'H		
+399	Chacon 2014	0	0	burn VI	flame (VI)		arder		ù'rú		udú- L		
+400	Chacon 2014	0	0	shine	flame (VI)-LAX				kòhí		kohí- L		
+401	Chacon 2014	0	0	flesh	flesh		carne				hiá		
+402	Chacon 2014	0	0	float	float	flutuar	rebalsar, flotar		baða		bayá L		
+403	Chacon 2014	0	0	to flood	flood (V)		inundar, desbordar				yabó L		
+404	Chacon 2016	0	0	flood	flood (V)		inundar, desbordar				bũí L		
+405	Chacon 2014	0	0	river flow	flow, of river, of water from source	correr agua	correr				pãdɨ̃dõ		
+406	Chacon 2014	0	0	flower	flower		flor				'kówɨ		
+407	Chacon 2014	0	0	panpipe	flute		flauta				pedú L		
+408	Chacon 2014	0	0	fly	fly		volar				wɨ̀ HL		
+409	Chacon 2014	0	0	follow	follow person, follow group	seguir, perseguir	seguir, atrasar				kuhú L		
+410	Chacon 2014	0	0	go	follow-LAX				nɨ́		dɨ̃́ L		
+411	Chacon 2014	0	0	food	food		comida				ã-í-yè		
+412	Chacon 2014	0	0	aliment	food		comida				ãú L		
+413	Chacon 2014	0	0	foot	foot		pie				kɨbó=bá		
+414	Chacon 2014	0	0	for no good reason	for no good reason		por gusto				ɨ-bé-nì		
+415	Chacon 2014	0	0	forehead, face	forehead		frente				hiwá		
+416	Chacon 2014	0	0	forehead	forehead		frente				tɨ̃tɨ̃wa		
+417	Chacon 2014	0	0	forest	forest		bosque				bãkã́-dṍ		
+418	Chacon 2014	0	0	companion	friend, companion		amigo, compañero, paisano				yówái		
+419	Chacon 2014	0	0	my relative, friend, companion, pet	friend, companion		amigo, compañero, paisano				hí-kɨ		
+420	Chacon 2016	0	0	rana	frog, toad		rana, sapo				ũbã́kò		
+421	Chacon 2014	0	0	toad	frog, toad		rana, sapo				bɨbɨ́-ko		no generic
+422	Chacon 2014	0	0		fruit		fruta				hẽ́-i=dɨ		hold stative cl round
+423	Chacon 2014	0	0	tucumã	fruit of Astrocaryum chambira, `chambira huayo`		chambira huayo, huayo de cumare				betó=dɨ̀		
+424	Chacon 2014	0	0	abiú	fruit sp, Pouteria caimito		caimo, caimito, fruta abi(y)u				kãdĩ́kà		
+425	Morse et. al 2000	0	0	fry	fry (VT)		freír				dẽo+kado-		greese toast
+426	Morse et. al	0	0	garbage	garbage		basura				hadɨwa-i=e		dispose stative mass
+427	Chacon 2014	0	0		garden		chacra				hió L		
+428	Chacon 2014	0	0	assemble, put together	gather (many people, VI)		reunir				kohió- L		
+429	Chacon 2014	0	0	invite people	gather (many people, VI)		reunir				kutu-		
+430	Chacon 2014	0	0	gatther, harvest, collect	gather, collect (VT)		cosechar, juntar				hewá		
+431	Chacon 2014	0	0	jenipapo	genipa, noun:plant sp.	jenipapo	huito, jaɡua				weí		
+432	Chacon 2014	0	0	ubim sp.,Geonoma baculifera	Geonoma baculifera	ubím	??				weko+muí L		
+433	Chacon 2014	0	0	palm for roofing, generic	Geonoma baculifera	ubím	??				bũi		
+434	Morse et. al. 1999	0	0	brotar	germinate, sprout, of noun:plant or feathers		brotar, crecer, retoñar				kopi		
+435	Morse et. al. 1999	0	0	brotar	germinate, sprout, of noun:plant or feathers		brotar, crecer, retoñar				pĩa		
+436	Morse et. al. 1999	0	0	brotar	germinate, sprout, of noun:plant or feathers		brotar, crecer, retoñar				pobo		
+437	Chacon 2014	0	0	enter, get in water	get in water, VI, telic, NON-PLACT		sumergirse, hundirse, sumirse				kó L		
+438	Chacon 2014	0	0	sink, drawn	get in water, VI, telic, NON-PLACT		sumergirse, hundirse, sumirse				bũi		
+440	Chacon 2014	0	0	enter, get in water	get in water, VI, telic, PLACT		sumergirse, hundirse, sumirse				kó L		
+441	Chacon 2014	0	0	sink, drawn	get in water, VI, telic, PLACT		sumergirse, hundirse, sumirse				bũi		
+442	Chacon 2014	0	0	get merried	get married		casarse				pɨdɨ́+bɨ́ó		hand tie
+443	Chacon 2014	0	0	have a woman, be married	get married		casarse				dõbĩ+kɨ		
+444	Chacon 2014	0	0	have a man, be married	get married		casarse				ɨ̃bɨ̃+kɨ		
+445	Morse et. al. 2000	0	0	gills	gills		agalla				waɨ'wabo		
+446	Chacon 2014	0	0	giver	give		dar				'hí L		
+447	Chacon 2014	0	0	go	go		ir				dɨ̃̀ HL		
+448	Chacon 2014	0	0	pass	go-LAX						wai		
+449		0	0	descend, land	go down, vertical		bajar (descender)				ẽbẽ́ L		telic
+450	Chacon 2014	0	0	come down, land	go down, vertical		bajar (descender)		hõ̀ðã́				
+451	Chacon 2014	0	0	go downriver	go downriver		bajar (ir aguas abajo)				behá L		
+452	Chacon 2014	0	0	go up	go up, vertical		subir				bɨ̃̀ HL		
+453	Chacon 2014	0	0	arrive going up	go up, vertical		subir				ẽbɨ̃́ L		telic
+454	Chacon 2014	0	0	go up	go upriver		surcar (ir aguas arriba)				bɨ̃́ L		
+455	Chacon 2014	0	0	go up from the river port to the land uphill, go in a path	go upriver		surcar (ir aguas arriba)				bã		
+456	Chacon 2014	0	0	gourd	gourd vessel Sp “pate”		pate, totouma, calabaza				hokowe		
+457	Chacon 2014	0	0	grab, hold	grab, close the hand around sth, telic and punctual, NON-PLACT		agarrar, arrancar				hẽ̀ HL		
+459	Chacon 2014	0	0	take, get	grab, get, make verb:motion to take sth		agarrar, alcanzar, recoger				ĩ̀- HL		
+460	Chacon 2014	0	0	grandchild	grandchild		nieto, nieta				parã́mè-		
+461	Chacon 2014	0	0	grandparent	grandparent		abuela, abuelo				yẽku-		
+462	Chacon 2014	0	0	grass	grass		hierba				kõdĩ́á		
+463	Chacon 2014	0	0	chavascal	grass		hierba				daða		
+464	Chacon 2014	0	0	green, blue	green		verde				hɨ̃bẽ́		
+465	Chacon 2014	0	0	jirau	grill, barbeque		parilla, barbacoa				kayá=wà		
+466	Chacon 2014	0	0	grind	grind		moler				hĩo		
+467	Morse et al. 2000	0	0	grind	grind		moler				kɨ̃o		
+468	Chacon 2014	0	0	grow	grow, get fat, of animate		crecer, engordar				bɨkɨ́- L		
+469	Chacon 2014	0	0	grow fat	grow, get fat, of animate		crecer, engordar				hikubu		
+470	Chacon 2014	0	0	grow	grow, of noun:plant, NOT germinate, VI		crecer				bɨkɨ́- L		
+471	Chacon 2014	0	0	muchiva	grub, lives in palm wood		suri, mojojoy				pĩkṍ-kɨ̀		
+472	Chacon 2014	0	0	gut	gut (animal)		destripar				hiwa		
+473	Chacon 2014	0	0	hair, feather	hair		pelo, cabello				poðá L		
+474	Chacon 2014	0	0	hammock	hammock		hamaca				pãú=kɨ̀		
+475	Chacon 2014	0	0	mão	hand		mano		pɨ̀'rɨ́		pɨdɨ́		
+476		0	0	arm, from shoulder until the hand	hand-LAX				àmúwè		abṹ=wè		
+477	Chacon 2014	0	0	hang up	hang up (VT, punctual), NON-PLACT		colgar				yuya		
+478	Chacon 2014	0	0	hang up sth together with sth else;hang up a hammock	hang up (VT, punctual), NON-PLACT		colgar				yuyuwa;wãiwã		
+479	Chacon 2014	0	0	hang up	hang up (VT, punctual), NON-PLACT		colgar				hẽo		
+481	Chacon 2014	0	0	have a feaver	have a fever		tener fiebre				bõ-		homophonous as putting on a hat
+482	Chacon 2014	0	0	diarrhea	have diarrhea		tener diarrea				koðo		Noun
+484	Chacon 2014	0	0	to have	have object		tener				kɨwá		
+485	Chacon 2014	0	0	head	head		cabeza				hipó=bɨ̀		
+486	Chacon 2014	0	0	hadwaters	headwater		cabeceras				hipo+kodo		head liquid
+487	Chacon 2014	0	0	heal	heal (VT) with medicine		tratar con medicina, dar remedio, curar				hɨó L		
+488	Chacon 2014	0	0	heal with tobbaco smoke	heal (VT) with tobacco smoke, etc.		curar, soplar, rezar sobre alguien, etc.				pupú L		
+489	Chacon 2014	0	0	listen	hear		escuchar				'hápià-		
+490	Chacon 2014	0	0	heart	heart (internal organ)		corazón				ũbẽ=dɨ		cognate with ET AIR, CLOUDS, SMOKE
+491	Chacon 2014	0	0	heel	heel		talón				kɨbo+t∫ĩa=dɨ		
+492	Chacon 2014	0	0	heel	heel		talón				yãbũ=ka		possibly metaphor of cará
+493	Chacon 2014	0	0	help	help (V)		ayudar				kaðá+tè		
+494	Chacon 2014	0	0	wild cacao	Herrania spp.		cacao				wako		
+495	Chacon 2014	0	0	hide, runaway	hide (VI)		esconderse				dupí L		
+496	Chacon 2014	0	0	hide	hide (VT)		esconder				yawé L		
+497	Chacon 2014	0	0	high	high, tall		alto				ɨ̃bɨ̃́ L		
+498	Chacon 2014	0	0	hill	hill, mountain, upland forest		loma, altura		tɨ̀róbɨ̀		tɨróbɨ̀		
+499	Chacon 2014	0	0	hill	hill, mountain, upland forest		loma, altura				yutubo		
+500	Chacon 2014	0	0	barranco, inclinação	hill, mountain, upland forest		loma, altura		tɨ̀róbɨ̀		tɨróbɨ̀		
+501	Chacon 2014	0	0	mountain	hill, mountain, upland forest		loma, altura				kɨ̃dã́=kũ		
+502	Chacon 2014	0	0	to kill, to hit	hit		golpear				boà HL		
+503	Chacon 2014	0	0	hit with sth	hit		golpear				hãðõ		
+504	Chacon 2014	0	0	hit with stick	hit		golpear				popé L		
+505	Chacon 2014	0	0	grab, hold	hold sth in the hands		agarrar, tener en la mano				hẽ̀HL		
+506	Chacon 2014	0	0	hole	hole		hueco				kobé		
+507	Chacon 2014	0	0	honey	honey		miel				bõbĩ		
+508	Chacon 2014	0	0	horn	horn		cuerno (cacho)				hawá-dò		
+509	Chacon 2014	0	0	horsefly	horsefly	Mutuca	tábano				dũdã́=bò		
+510	Chacon 2014	0	0	house	house		casa				kɨ̃dã́bĩ̀		
+511	Chacon 2014	0	0	anthill	house-LAX						wɨe		
+512	Chacon 2014	0	0	guariba	howler monkey, Alouatta sp.		mono aullador, mono coto				ẽbṹ L		
+513	Chacon 2014	0	0	hummingbird	humminɡnoun:animal:bird (general)		picaflor, colibri				bĩbĩ́=yò		
+514	Chacon 2016	0	0	leaf basket	hunting basket Sp. “capillejo”		capillejo				kurúkà		
+515	Chacon 2014	0	0	pain	hurt oneself, injure oneself, VI, punctual		herir(se), lastimar(se)				ihí L		
+516	Chacon 2014	0	0	pain	hurt, be painful, VI, durative		doler				ihí L		
+517	Chacon 2016	0	0	make a wound on someone	hurt, injure, VT		herir, lastimar				çurí+ya		
+518	Chacon 2016	0	0	hurt, hit someone	hurt, injure, VT		herir, lastimar				boà HL		
+519	Chacon 2014	0	0	husband	husband		marido, esposo				bã́-dè pakɨ		
+520	Chacon 2014	0	0		illuminate sth, shine light on sth (VT)	iluminar	iluminar		pè̃ò̃		pẽò- 'H		
+521	Chacon 2014	0	0	imitate	imitate (animal cry, noun:person)		remedar, imitar, reparar				'kúpèka		
+522	Chacon 2014	0	0	baby, small child	infant		bebé, infante, nené, llullu, criatura, etc.				'kɨ́=hĩ-kɨ		be DIM MSC
+523	Chacon 2014	0	0	inga	Inga sp., general		guaba, guama				bẽdẽ́ L		
+524	Chacon 2014	0	0	intestine	intestines, guts		intestino (entrañas)				kɨdá=bũ		
+525	Chacon 2014	0	0	paxiuba	Iriartea deltoidea	paxiúba	huacrapona				'yṍpò		
+526	Chacon 2014	0	0	paxiubinha	Iriartella setigera	paxiúbinha	mabe, cola de pava, ponilla (Peru)				pɨ̃o=yɨ̃		
+527	Chacon 2014	0	0	island	island		isla				hiá=wɨ̀		
+528	Chacon 2014	0	0	issue fruit	issue fruit, issue flowers, of plant		echar fruta/flor, frutar, florear				hẽ̀HL		
+529	Chacon 2014	0	0	shine	issue light, shine light (VI)		alumbrar		kòhí		kohí- L		
+530	Chacon 2014	0	0	issue light, shine	issue light, shine light (VI)-LAX				mìàðá		bĩayá́L		same root used for dawn
+531	Chacon 2014	0	0	itch	itch		dar comezon				hãpĩo		
+532	Chacon 2014	0	0	jaguar	jaguar		tigre, jaguar				yawí L		
+533	Chacon 2014	0	0	jaw	jaw		mandíbula, quijada, cachete				yedɨ́=wé		
+534	Chacon 2014	0	0	jump	jump, NON-PLACT		saltar (brincar)				biadá L		
+536	Chacon 2014	0	0	kapok	kapok, Ceiba pentandra		algodón (silvestre), huimba				yɨí L		
+537	Chacon 2014	0	0	kick	kick, NON-PLACT		patear/dar patadas				tã́ L		
+539	Chacon 2014	0	0	kidney	kidney		riñon				hoedɨ		
+540	Chacon 2014	0	0	to kill, to hit	kill		matar				boà HL		
+541	Chacon 2016	0	0	kill	kill		matar				boá hàruwa		
+542	Chacon 2014	0	0	kill, throw away, vanish	kinɡfisher		martin pescador				hadɨwa		
+543	Chacon 2014	0	0	knee	knee		rodilla				'yɨ̃á=bò		
+544	Chacon 2014	0	0	knife	knife		cuchillo				tãu=hĩ=we		
+545	Chacon 2014	0	0	know	know		saber				bãhí		
+546	Chacon 2014	0	0	lake	lake		lago, cocha				hitá=bɨ̀		
+547	Chacon 2014	0	0	snail	land snail (edible)		caracol				kawa=dɨ		
+548	Chacon 2014	0	0	later, after	later		más tarde				'yóbò		
+549	Chacon 2014	0	0	laugh	laugh		reír				yɨdi		
+550	Chacon 2014	0	0	laugh	laugh		reír				hahei		
+551	Chacon 2014	0	0	laugh	laugh		reír				hakoyobo		
+552	Chacon 2014	0	0	lay down	lay down (tr.)		poner/colocar				aya		
+553	Chacon 2014	0	0	lay down fish trap	lay down (tr.)		poner/colocar				hua		
+554	Chacon 2014	0	0	leaf	leaf		hoja				yoká L		
+555	Chacon 2014	0	0	saúva, ant sp.	leafcutter ant		curhuince, arriera				bẽá- L		
+556	Chacon 2014	0	0	left side	left		izquierdo				kãkõ+pũdã		
+557	Chacon 2014	0	0	leg	leg		pierna				ãdã́=yò		knee in kUB is cognate with Tuy leg
+558	Morse et al. 2000	0	0	raise and let go of an animal	let go of sth, let go of animal/noun:person		soltar				bɨkɨowa-dĩ+hado		
+559	Morse et al. 2000	0	0	stop, set free	let go of sth, let go of animal/noun:person		soltar				dahoka-		
+560	Morse et al. 2000	0	0	untie	let go of sth, let go of animal/noun:person		soltar				hoye		
+561	Chacon 2014	0	0	let's go	letʼs ɡo		vamos		'hã́rì̃kà	'hã́rì̃kà;'hã́ì̃kà;'hĩ́kà	'hã́rì̃ka		phonetic forms represent dialectal differences 1 Cuduyari 2 Querari 3 Vaupés
+562	Chacon 2014	0	0	liana general; liana species used for construction	liana sp.		tamshi, yaré		yàímé		yaí=bẽ		
+563	Chacon 2014	0	0	liana general; liana species used for construction	liana, general		bejuco, soga del monte		yàímé		yaí=bẽ		
+564	Chacon 2014	0	0	ayawaska	liana.general-LAX				mìhĩ́		bĩhĩ́		the etymology of this word in other Tukanoan languages suggests that its use in Kubeo as referring to ayawaska is likely motivated by secretism and tabu, where men would avoid using its traditional name, such naming practice is common in NW Amazonia
+565	Chacon 2014	0	0	lick	lick		lamer				dẽdẽ́ L		
+566	Chacon 2014	0	0	lie down	lie down (telic, VI)		echarse				padá́ L		
+567	Chacon 2014	0	0	lie down in a hamock	lie down (telic, VI)		echarse				yuyu L		
+568	Chacon 2014	0	0	lift	lift (VT)		levantar (alzar)				hãbɨ̃o		
+569	Chacon 2014	0	0	lift	lift (VT)		levantar (alzar)				dãkṍ́wã̀		
+570	Chacon 2014	0	0	light a fire	light a fire (VT)		prender fuego, encender				dakuwa		
+571	Chacon 2014	0	0	lightning	lightning (N)		relámpago				yadó́í́dõ̀̀		
+572	Chacon 2016	0	0	limp	limp, sneak around (VI)	mancar	cojear				adɨ adɨ ayɨ		
+573	Chacon 2014	0	0	live	live		vivir				kɨ̀ H		
+574	Chacon 2014	0	0	liver	liver		higado				pẽdĩbo		
+575	Chacon 2014	0	0	lizzard	lizard, generic		lagarto, lagartija				bɨ́́yókó		
+576	Chacon 2014	0	0	look for	look for		buscar				wò H		
+577	Chacon 2014	0	0	lose	lose object (VT)		perder				hadɨ́wà		
+578	Chacon 2014	0	0	louse	louse		piojo				kɨ̃́ L		
+579	Chacon 2014	0	0	want	love		amar				ɨ̀ HL		
+580	Chacon 2014	0	0	like	love		amar				kohɨ́̀ L		
+581	Chacon 2014	0	0	pulmão	lung		pulmón				wɨíbò		
+582	Chacon 2014	0	0	macaw	macaw		guacamayo				bã́ L		
+583	Morse et. al. 2000	0	0	represar	make dam		hacer presa				pa		
+584	Chacon 2014	0	0	close	make dam		hacer presa				bia		close including river mouth
+585	Chacon 2014	0	0	make a narrow passage	make dam		hacer presa				tãito		
+586	Chacon 2014	0	0	make fall	make someone/sth fall (from standing verb:positional), push someone over		hacer caer				wãwã		
+587	Chacon 2014	0	0	make fall	make someone/sth fall (from standing verb:positional), push someone over		hacer caer				tɨwa		
+588	Chacon 2014	0	0	make wet	make wet		mojar				ẽdṹ́wã̀		
+589	Chacon 2014	0	0	make wet	make wet		mojar				yakɨ́yà		
+590	Chacon 2014	0	0	make	make, manufacture, prepare		hacer, confeccionar				ðà HL		
+591	Chacon 2014	0	0	man	man		hombre				ɨ̃bɨ̃́ L		
+592	Chacon 2014	0	0	ubuçu	Manicaria saccifera	ubuçu, buçu	napa, cabecinegro, jicra, ubí, yarinilla (Peru)				wá́çìñɨ		
+593	Chacon 2014	0	0	drink generic, chica	manioc beer		masato (chicha)				ũkṹ́iyè		
+594	Chacon 2014	0	0	beiju	manioc bread		casabe				ãúdõ̀		
+595	Chacon 2014	0	0	ralador	manioc grater		rallador (de yuca)				pedíkũ̀		
+596	Chacon 2014	0	0	stove	manioc griddle/stove		tiesto				padámìwa		
+597	Chacon 2014	0	0	manicuera	manioc liquid		manicuera				pedí́kò		
+598	Chacon 2014	0	0	manioc flour	manioc meal, manioc flour		fariña				hɨtɨ́́dá́		
+599	Chacon 2014	0	0	massa de mandioca	manioc meal, raw material used in making manioc bread	massa	masa de yuca				boda		
+600	Chacon 2014	0	0	porção de massa de mandioca	manioc meal, raw material used in making manioc bread	massa	masa de yuca				ãu tɨkarɨ		
+601	Chacon 2014	0	0	massa de mandioca ralada	manioc meal, raw material used in making manioc bread	massa	masa de yuca				hĩoibo		
+602	Chacon 2014	0	0	mingau	manioc porridge, mixture of water and manioc starch	mingau	??				okókàyue		
+603	Chacon 2014	0	0	tipiti	manioc press		matafrio, sebucan, tipiti				dãðãñɨ̀		
+604	Chacon 2014	0	0	tipiti	manioc press		matafrio, sebucan, tipiti				hĩoibò		
+605	Chacon 2014	0	0	goma	manioc starch		almidón				ẽtã́ L		
+606	Chacon 2014	0	0	manioc	manioc, bitter		yuca brava				kɨí L		
+607	Chacon 2014	0	0	macaxeira	manioc, sweet		yuca dulce				yuka		
+608	Chacon 2014	0	0	macaxeira	manioc, sweet		yuca dulce				makaçera		
+609	Chacon 2014	0	0	many animates	many, ANIM		mucho				obé L		
+610	Chacon 2014	0	0	many	many, INAM		mucho				obé L		
+611	Chacon 2014	0	0	capoeira	mature garden		purma				hióròho		
+612	Chacon 2014	0	0	M. aculeata	Mauritia aculeata (aka M. gracilis)		aguajillo (Peru)				kuwáñɨ̀		
+613	Chacon 2014	0	0	M. carana	Mauritia carana	caraná	carana, aguaje de varillal				t∫ídã		
+614	Chacon 2014	0	0	buriti	Mauritia flexuosa		aguaje, canangucha, moriche				dẽí́		
+615	Chacon 2014	0	0	meat, flesh	meat		carne		hìá		hiá		
+616	Chacon 2014	0	0	fish sp.	meat-LAX		carne		wáwìkò		wáwì-ko		
+617	Chacon 2014	0	0	medicine	medicine		remedio, medicina, droga		hɨ̀óìyè		hɨó-ì-ye		heal stativizer mass
+618	Chacon 2014	0	0	to be menstruate	menstruate		menstruar, tener (la) regla		pã̀úwã̀		pãúwã̀-		
+619	Chacon 2014	0	0	a ritual of passage for man	menstruate-LAX		menstruar, tener (la) regla		bèdé		bedé- ?		
+620	Chacon 2014	0	0	middle	middle (relational N)		medio		kòdíkà		kodíkà		
+621	Chacon 2014	0	0	millipede	millipede		milpiés				kõdĩád`ɨ		
+622	Chacon 2014	0	0	misturar	mix, mix sth with sth else, NOT stir		mezclar				hĩwã́		
+623	Chacon 2016	0	0	mix liquids	mix, mix sth with sth else, NOT stir		mezclar				hũbẽ́		
+624	Chacon 2014	0	0	stir	mix, stir liquid, with spoon or other utensil		mezclar				kayuá		
+625	Chacon 2014	0	0	make fun of someone	mock, make fun of, laugh at		burlar(se de)				yahurĩ+a		play say
+627		0	0	moon	moon		luna				awia+yãbĩ=kakɨ		sun from the night
+628	Chacon 2014	0	0	early morning 5-7am	morning		mañana				hawéhĩdã		
+629	Chacon 2014	0	0	mosquito	mosquito		zancudo				bɨ̃dẽ́ L		
+630	Chacon 2014	0	0	mother-in-law	mother-in-law		suegra				wákò		
+631	Chacon 2014	0	0	crossed mother's sister	mother's sister		tía, hermana de la madre				pãrĩmo		
+632	Chacon 2014	0	0	parallel mother's sister	mother's sister		tía, hermana de la madre				pakoi mako		
+633	Chacon 2014	0	0	mouth	mouth		boca				hihé+kamu		mouth tongue
+634	Chacon 2014	0	0	many	much, INAM		mucho				ɨdé L		
+635	Chacon 2014	0	0	name	name		nombre				ãbĩ́ L		
+636	Chacon 2014	0	0	near	near		cerca				kaðá=hĩ̀		
+637	Chacon 2014	0	0	near, in the domain of, in the area of	near		cerca				eba		similar in meaning as in French chez lui
+638	Chacon 2014	0	0	neck	neck		cuello				yãbẽ́bũ		
+639	Morse et. al. 2000	0	0	necklace	necklace/neck adornment		collar				koðei=bẽ		
+640	Chacon 2014	0	0	necklace of teeth	necklace/neck adornment		collar				kõpiã=ba		
+641	Chacon 2016	0	0	negative existential	negative existential		no haber				kɨ-be		exist NEG
+642	Chacon 2014	0	0	nephew, man's sister's son	nephew/niece		sobrino, sobrina				yɨikɨ		no parallel nephew as the term for son and daughter covers it
+643	Morse et. al 2000	0	0	crossed nephew	nephew/niece		sobrino, sobrina				padãbõkɨ		
+644	Chacon 2014	0	0	ortiga	nettle		ortiga, ishango, pringamoza				huhi+kowɨ		pium flour
+645	Chacon 2014	0	0	new	new		nuevo				bãbã		
+646	Chacon 2014	0	0	night	night		noche		ñàmí		yãbĩ́ L		
+647	Chacon 2014	0	0	white person	non-indigenous noun:person, white noun:person		noun:persona blanca, blanco, extranjero, foráneo, gringo				yãdãdawi		likely borrowing from Kotiria or Baniwa
+648	Chacon 2014	0	0	nose	nose		nariz				ũékà		
+649	Chacon 2014	0	0	not know	not know / I.don't.know		no saber				mahi-be		know NEG
+650	Chacon 2014	0	0	be successful, succeed	obtain		conseguir, obtener				oa		
+651		0	0		obtain		conseguir, obtener				ea		
+652	Chacon 2014	0	0	bacaba	Oenocarpus bataua, Jessenia bataua		(h)ungurahui, milpesos				kõhã́ L		
+653	Chacon 2014	0	0	Oenocarpus mapora	Oenocarpus mapora	bacabinha	pusuy, ciamba, camba, sinamillo, milpesillo				buɨ kõhã		
+654	Chacon 2014	0	0	old	old		viejo				bɨkɨ́ L		
+655	Chacon 2014	0	0	older sibling, older brother, older sister	older sibling (older brother, older sister)		hermano, hermana mayor				bãbĩ-		
+656	Chacon 2014	0	0	one	one		uno				kuĩdã́-		
+657	Chacon 2014	0	0	open	open cap, open sth perpendicular to rest of surface, VT		abrir				woá		
+658	Chacon 2014	0	0	open	open door, open sth parallel to rest of surface, VT		abrir				woá		
+659	Chacon 2014	0	0	open mouth	open the mouth		abrir la boca, bostezar				hahadowa		
+660	Chacon 2014	0	0	open	open, VT		abrir				woá		
+661	Chacon 2014	0	0	order, comand, allow	order, command		ordenar, mandar (a una noun:persona)				kõhẽ	auxiliary verb	
+662	Morse et. al. 2000	0	0	órfão	orphan		huérfano				tẽúmákɨ		
+663	Chacon 2014	0	0	other	other		otro				ape		
+664	Chacon 2014	0	0	other	other		otro				hape		
+665	Chacon 2014	0	0	the other side	other side of river		otro lado				ape+pũdã		
+666	Chacon 2014	0	0	outside	outside		afuera				hedéwà		
+667	Chacon 2014	0	0	paca	paca, Agouti paca		boruga, paca, majas, lapa				hẽbẽ́bò		
+668	Chacon 2014	0	0	paddle	paddle		remo				hiaðowe		
+669	Chacon 2014	0	0	paddle	paddle (V)		bogar, remar				doá		
+670	Chacon 2014	0	0	paint	paint (V)		pintar				t∫ítà		
+671	Chacon 2014	0	0	painted	painted (spotted)		pintado				toí L		
+672	Chacon 2014	0	0	older borther, older parallel paternal cousin	parallel cousin (female or male)		prima (hermana), primo (hermano)				bãbĩ́ L		
+673	Chacon 2014	0	0	younger borther, younger parallel paternal cousin	parallel cousin (female or male)		prima (hermana), primo (hermano)				yó L		
+674	Chacon 2014	0	0	parallel maternal cousing	parallel cousin (female or male)		prima (hermana), primo (hermano)				pako+ma-		
+675	Chacon 2014	0	0	father	parent		madre, padre				pakɨ́ L		
+676	Chacon 2014	0	0	parents	parent		madre, padre				bɨkɨwa		
+677	Chacon 2014	0	0	parrot	parrot, Amazona spp., generic or particular		loro				wekó L		
+678	Chacon 2014	0	0	pass	pass (VI)		pasar				wai		
+679	Chacon 2014	0	0	path	path		camino				bã́		
+680	Chacon 2014	0	0	pupunha	peach palm, Bactris gasipaes		pupuna, chontaduro, pijuayo				ɨ̃dẽ́ L		
+681	Morse et. al. 2000	0	0	cajuchi	peccary, collared, Tayassu tajacu		sajino, saíno, cerrillo, pecarí de collar				ɨrawɨkakɨ		
+682	Chacon 2014	0	0	peccary	peccary, white-lipped, Tayassu pecari		huangana, puerco				wãrĩ hẽhẽ		
+683	Chacon 2014	0	0	picotear	peck		picotear				totátà		
+684	Chacon 2016	0	0	peel	peel fruit, skin animal, remove skin/peel that closely adheres to sth		pelar				yió		
+685	Chacon 2016	0	0	peel manioc	peel fruit, skin animal, remove skin/peel that closely adheres to sth		pelar				wɨwá		
+686	Chacon 2016	0	0	peel skin	peel fruit, skin animal, remove skin/peel that closely adheres to sth		pelar				dõewá		
+687	Chacon 2014	0	0	take off tree bark	peel fruit, skin animal, remove skin/peel that closely adheres to sth		pelar				yewá L		
+688	Chacon 2014	0	0	peel	peel fruit, skin animal, remove skin/peel that closely adheres to sth		pelar				hĩo		
+689	Chacon 2014	0	0	penis	penis		pene				dõédɨ̀		
+690	Chacon 2014	0	0	people	people		gente				põéwã́		
+691	Chacon 2014	0	0	pineapple	pineapple		piña				ihíbó		
+692	Chacon 2014	0	0	piranha	piranha		piraña, paña, palometa				bũyṹbo		
+693	Chacon 2014	0	0	breu	pitch		brea				kõedṍ		
+694	Chacon 2014	0	0	plant	plant (seed)		sembrar semilla				oté L		
+695	Morse e. al. 2000	0	0	diseminar semillas muy pequeñas	plant (seed)		sembrar semilla				hayawa		
+696	Morse e. al. 2000	0	0	sembrar	plant (seed)		sembrar semilla				hãpũpã		
+697	Chacon 2014	0	0	banana	plantain		plátano				ṍdẽ̀		
+698	Chacon 2014	0	0	play	play		jugar				yahú L		
+699	Chacon 2014	0	0	pleiades, piranha	Pleiades		Pléyades				bũyṹbo		
+700	Chacon 2014	0	0	point	point (finger)		señalar con el dedo, apuntar				yadé		
+701	Chacon 2014	0	0	point	point (finger)		señalar con el dedo, apuntar				habiówà		
+702	Chacon 2014	0	0	poison	poison, for weapons (N)		curare, veneno				hĩbã́		
+703	Chacon 2014	0	0	umari	Poraqueiba sericea		umarí				bãbɨ̃́ L		
+704	Chacon 2014	0	0	porto	port		puerto				pãwã		leva um nome determinante como tui 'carregar' ou mai 'levar pelo caminho
+705	Chacon 2014	0	0	pottery	pot		olla				horó L		
+706	Chacon 2014	0	0	pour	pour liquid from vessel, empty liquid, NON-PLACT		vaciar				yuwá		
+708	Chacon 2014	0	0	cucura	Pouroma cecropiafoliae		caimarón, uvilla, guarumo				ɨ́yèi		
+709	Chacon 2014	0	0	ucuqui	Pouteria ucuqui		ucuqui, yugo, yucú				pákòro		
+710	Chacon 2014	0	0	powder	powder		polvo				pedã		
+711	Chacon 2014	0	0	proa	prow		proa				pũdãbo		
+712	Chacon 2014	0	0	pull	pull		jalar				dakúhù		
+713	Chacon 2014	0	0	pull	pull		jalar				dabɨ́bò		
+714	Morse et. al. 2000	0	0	pull	pull		jalar				waiwe		
+715	Chacon 2014	0	0	push	push		empujar				hapɨpo		
+716	Chacon 2014	0	0	put down, place sth	put down, put sth in position such that a small surface fully contacts the ground, NON-PLACT		poner (colocar), hacer sentar				tɨó L		
+717	Chacon 2014	0	0	put into	put down, put sth in position such that a small surface fully contacts the ground, NON-PLACT		poner (colocar), hacer sentar				ayá L		
+719	Chacon 2014	0	0	put in water	put in water, VT		sumergir, hundir, sumir				haboa		
+720	Chacon 2014	0	0	afundar	put in water, VT		sumergir, hundir, sumir				bũiwã		
+721	Chacon 2014	0	0	get dressed	put on garment (of oneself), get dressed		ponerse (ropa), vestirse, mudar ropa				do		
+722	Chacon 2014	0	0	to rain	rain		llover				oka		
+723	Chacon 2014	0	0	rainbow	rainbow		arco iris				dábẽ		
+724	Chacon 2014	0	0	raise pet, children	raise pet/domestic animal		criar				bɨkɨówa		
+725	Chacon 2014	0	0	rat	rat, generic		ratón				bei=bó		
+726	Chacon 2014	0	0	maraca	rattle, maraca		maraca, sonaja, sonajero				hãhã́=b`ɨ		
+727	Chacon 2014	0	0	food not cooked, undercooked, not ready for eating	raw		crudo				bó-be-		
+728	Chacon 2014	0	0	reach a goal, arrive, find, satisfy	reach goal (VT)		alcanzar				eá		
+729	Chacon 2014	0	0	red	red		rojo				hũá		
+730	Chacon 2014	0	0	tirar	remove sth from closed space (VT), NON-PLACT		sacar				ĩ		
+732	Chacon 2014	0	0	say, repply	reply		responder				a		
+733	Chacon 2014	0	0	repply positively	reply		responder				hɨ a		
+734	Morse et. al. 2000	0	0	repply back	reply		responder				kopɨ+a		
+735	Chacon 2014	0	0	resin	resin, sap		resina				kuidó́		
+736	Chacon 2014	0	0	rest	rest (VI)		descansar				habɨ́bò		
+737	Morse et. al. 2000	0	0	give back	return, give sth back to its owner		devolver				kohediowa		
+738	Chacon 2014	0	0	return	return, go back to point of origin		volver				kopa-		
+739	Chacon 2014	0	0	return	return, go back to point of origin		volver				kopedi	verb and adverb	
+740	Chacon 2014	0	0	rib	rib		costilla				tẽ́ tada-		
+741	Chacon 2014	0	0	rib	rib		costilla				kũa hada-		
+742	Chacon 2014	0	0	right side	right (side)		derecho				bẽá pũdãwɨ		good side
+743	Chacon 2014	0	0	ritual tassel worn at the ankle	ritual tassel		shacapa				hewebo		
+744	Chacon 2014	0	0	river	river		río				hiá L		
+745	Chacon 2014	0	0	river otter	river otter, Lutra sp.		nutria, lobo del rio				tɨ̃bĩ		see timi in ET, including Tukano word for small
+746	Chacon 2014	0	0	roll	roll, make obj revolve on the ground		hacer rodar, revolcar				tõdõa		
+747	Chacon 2014	0	0	root	root		raiz				dɨ̃ó		
+748	Chacon 2014	0	0	rot	rot		pudrirse				pohé L		
+749	Chacon 2014	0	0	rub	rub obj down with sth, smear sth across obj, as grease or paint		frotar, untar, sobar				hĩhõwã		
+750	Chacon 2014	0	0	rub face	rub obj down with sth, smear sth across obj, as grease or paint		frotar, untar, sobar				kũitũtũ		
+751	Morse et. al. 2000	0	0	frotar las manos, entre las manos	rub obj down with sth, smear sth across obj, as grease or paint		frotar, untar, sobar				kõhɨ̃yõ		
+752	Morse et. al. 2000	0	0	frotar	rub obj with obj		frotar				wɨde		
+753	Chacon 2014	0	0	run	run		correr				kúyà		
+754	Chacon 2014	0	0	salt	salt		sal				yukira		borrowing from Lingua Geral
+755	Chacon 2014	0	0	caruru	salt		sal				dũbã		indigenous salt made from leaves that grow in the rapids
+756	Chacon 2014	0	0	sand	sand		arena				ẽpã		
+757	Chacon 2014	0	0	mutuca	sandfly	mutuca?	manta blanca, many other regionalisms				dɨ̃dãbo		
+758	Chacon 2014	0	0	say	say		decir				a HL		
+759	Chacon 2014	0	0	tell	say		decir				koyɨ́ L		
+760	Chacon 2014	0	0	scale	scales		escama				tɨ̃t∫ĩ		
+761	Chacon 2014	0	0	scary	scare (VT)		asustar (espantar)				kuawá L		
+762	Chacon 2014	0	0	scold	scold		regañar				hadá L		
+763	Chacon 2014	0	0	scorpion	scorpion		alacrán				bũdĩ́ L		
+764	Chacon 2014	0	0	scrape	scrape (sth off of obj)		raspar				wɨwé L		
+765	Chacon 2014	0	0	scrape	scrape (sth off of obj)		raspar				hãpĩá		
+766	Chacon 2014	0	0	scrape	scrape (sth off of obj)		raspar				hãpĩápò		
+767	Chacon 2014	0	0	scratch oneself	scratch (itch)		raspar, arañar				hãpĩapo		
+768	Chacon 2014	0	0	scrap	scratch (itch)		raspar, arañar				hãpĩá L		
+771	Chacon 2014	0	0	see	see		ver				hã́ L		
+772	Chacon 2014	0	0	look	see		ver				kokó L		
+773	Chacon 2014	0	0	seed, nuts	seed		semilla				yabe		
+774	Chacon 2014	0	0	spread out	separate oneself from group (VI), become separate, of obj (VI), NON-PLACT		separarse				yawá L		
+775	Chacon 2014	0	0	separate onesefl	separate oneself from group (VI), become separate, of obj (VI), NON-PLACT		separarse				koátè		
+776	Chacon 2014	0	0	different, separate, apart	separate oneself from group (VI), become separate, of obj (VI), NON-PLACT		separarse				hĩ́kũa	adverb	
+777	Chacon 2014	0	0	each	separate oneself from group (VI), become separate, of obj (VI), NON-PLACT		separarse				koapa		
+779	Chacon 2014	0	0	separate	separate sth from group (VT), confiscate obj (VT), NON-PLACT		quitar				koawa		
+780	Chacon 2016	0	0	take away something from someonelse	separate sth from group (VT), confiscate obj (VT), NON-PLACT		quitar				tató		
+781	Chacon 2014	0	0	take a desease away	separate sth from group (VT), confiscate obj (VT), NON-PLACT		quitar				duá		shamanism
+783	Chacon 2014	0	0	shadow	shadow, shade		sombra				dekó L		
+784	Chacon 2014	0	0	sharpen	sharpen (VT)		afilar				hewɨ+ya		
+785	Chacon 2014	0	0	shell, bark, turtoise	shell, hard shell as of turtle		cascara				kudi		
+786	Chacon 2014	0	0	shin	shin		canilla				ãdã́ðò		
+787	Chacon 2014	0	0	shoot arrow	shoot arrow or blowgun dart, NON-PLACT		disparar, flechar, pucunear				tɨtó L		
+788	Chacon 2014	0	0	blow a dart	shoot arrow or blowgun dart, NON-PLACT		disparar, flechar, pucunear				pu HL		
+790	Chacon 2014	0	0	shore, bank	shore, bank		orilla (banda, margen)				ẽkã́- L		
+791	Chacon 2014	0	0	not long	short		corto, bajo				ɨ̃bɨ̃́-hɨ̀-be		
+792	Chacon 2014	0	0	shoulder	shoulder		hombro				adɨ́bo		
+793	Chacon 2014	0	0	shout	shout, yell		gritar				koðóbòbo		
+794	Chacon 2014	0	0	cry, shout	shout, yell		gritar				ó́ L		
+795	Chacon 2014	0	0	side	side		lado				pũdã		
+796	Chacon 2016	0	0	side by side, in pair	side		lado				tɨkáwà		
+797	Chacon 2014	0	0	cernidor	sieve (strainer)		cernidor, colador, cedazo				hahɨóbá		
+798	Chacon 2016	0	0	colador	sieve (strainer)		cernidor, colador, cedazo				pedíbà		
+799	Chacon 2014	0	0	make music, sing, dance	sing		cantar				upá L		
+800	Chacon 2014	0	0	chant	sing		cantar				yɨri+ya		
+801	Chacon 2014	0	0	make music, sing, dance	sing, of bird		cantar, gritar (de ave)				upá L		
+802	Chacon 2014	0	0	speak, sing as a bird	sing, of bird		cantar, gritar (de ave)				yáwa		
+803	Chacon 2014	0	0	cry	sing, of bird		cantar, gritar (de ave)				'ó- L		
+804	Chacon 2014	0	0	singe	singe hair off of		chamuscar				huá L		
+805	Chacon 2014	0	0	sister-in-law	sister-in-law		cuñada				kapedɨ̃bõ		
+806	Chacon 2014	0	0	parallel cousin	sister-in-law		cuñada				t∫ĩbako		
+807	Chacon 2014	0	0	sit	sit		sentar				dobá L		
+808	Chacon 2014	0	0	land, sit as a bird	sit		sentar				tubá L		
+809	Chacon 2014	0	0	skin	skin		piel				kahé L		
+810	Chacon 2014	0	0	sky	sky		cielo				kawadõ		
+811	Chacon 2014	0	0	sleep	sleep		dormir				kã̀ HL		
+812	Chacon 2014	0	0	sloth	sloth, general		pelejo, perezoso				ú L		
+813	Chacon 2014	0	0	issue a smell	smell (VI, issue a smell)		oler, tener olor				kodáhɨ̀		
+814	Chacon 2014	0	0	perceive a smell	smell (VT, perceive a smell)		oler, olfatear				wĩ-dĩ+hã́ L		sniff CONVERB see
+815	Chacon 2014	0	0	suck, smoke	smoke (consume sth by smoking)		fumar (tabaco)				dũ HL		
+816	Chacon 2014	0	0	smoke, steam	smoke (N), steam, fog, mist		humo, vapor, neblina				bikó L		
+817	Chacon 2014	0	0	smoke meat, fish	smoke food		ahumar				hɨyó		
+818	Chacon 2014	0	0	poisonous snake	snake		culebra, víbora				ãyã́ L		
+819	Chacon 2014	0	0	sneeze	sneeze		estornudar				ãt∫iã́		
+820	Chacon 2014	0	0	Socratea èorrhiza	Socratea exorrhiza	paxiúba	cashapona, araco, chuapo, zancona				yṍ́weà		
+821	Chacon 2014	0	0	paxiúba	Socratea exorrhiza	paxiúba	cashapona, araco, chuapo, zancona				yṍpõ		
+822	Chacon 2014	0	0	cubiú	Solanum quitoense		naranjilla, lulo				betákà		
+823	Chacon 2014	0	0	cubiú	Solanum sessiflorum		cocona				betákà		
+824	Chacon 2014	0	0	son	son		hijo				bã́kɨ̀		
+825	Chacon 2014	0	0	son-in-law	son-in-law		yerno				wákɨ̀		
+826	Chacon 2014	0	0	speak	speak		hablar				yáwà		
+827	Chacon 2014	0	0	spear	spear		lanza				behódɨ̀		
+828	Morse et. al. 2000	0	0	spear	spear		lanza				tãubũ		
+829	Morse et. al. 2000	0	0	spear	spear		lanza				padibo		
+830	Chacon 2014	0	0	spider	spider		araña				pɨ̃pɨ̃́bò		
+831	Chacon 2016	0	0	spider monkey	spider monkey, Ateles sp		maquizapa				waókó		
+832	Morse et. al. 2000	0	0	spider monkey	spider monkey, Ateles sp		maquizapa				kuata		borrowing from LG TCC
+833	Chacon 2014	0	0	spiderweb	spiderweb		telaraña				pɨ̃pɨ̃́mè		
+834	Chacon 2014	0	0	spine	spine		columna vertebral, espinazo				yapí+tɨ̃bɨ̃+kũaðo		
+835	Chacon 2014	0	0	soul	spirit, ghost, of dead noun:person		alma				ũbẽ́ L		
+836	Chacon 2014	0	0	spirit	spirit, ghost, of dead noun:person		alma				abuhukɨ		
+837	Chacon 2014	0	0	soul	spirit, soul, of live noun:person/animal		alma				ũbẽ́ L		
+838	Chacon 2014	0	0	spit	spit (N)		saliva				hẽkṹ		
+839	Chacon 2014	0	0	spit	spit (V)		escupir				hẽkṹtũ		
+840	Chacon 2014	0	0	break, split, crack	split (VI), develop crack and separate down crack, of rigid obj such as plate or wood		partir(se)				kopó L		
+841	Chacon 2014	0	0	split, divide	split (VI), develop crack and separate down crack, of rigid obj such as plate or wood		partir(se)				kotɨ		
+842	Chacon 2014	0	0	split	split (VT), cut or break down central axis and force apart, e.g. split a log or open belly of carcass		rajar, partir (leña)				popé L		
+843	Chacon 2014	0	0	split	split (VT), cut or break down central axis and force apart, e.g. split a log or open belly of carcass		rajar, partir (leña)				tṍ		
+844	Chacon 2016	0	0	open a fruit or animal	split (VT), cut or break down central axis and force apart, e.g. split a log or open belly of carcass		rajar, partir (leña)				kõpã́wà		
+845	Chacon 2014	0	0	squeeze	squeeze (VT)		apretar				kopípò		
+846	Chacon 2016	0	0	squeeze to juice	squeeze to juice, express a liquid (VT)		exprimir				pipó		
+847	Chacon 2014	0	0	squeeze with the tipiti	squeeze to juice, express a liquid (VT)		exprimir				tù HL		
+848	Chacon 2014	0	0	squirl	squirrel		ardilla				hɨ̃hṍrɨ́		
+849	Chacon 2016	0	0	especie de ardilla	squirrel		ardilla				buçi tɨ̃rõrɨ		
+850	Morse et. al. 2000	0	0	Samiri spp	squirrel monkey, Saimiri spp.		(mono) fraile, frailecito				borí+hìhiyo		
+851	Chacon 2014	0	0	stick a needle	stab, general		picar, puñalar, chuzar, lanzar, acuchillar				doá		
+852	Chacon 2016	0	0	stab	stab, general		picar, puñalar, chuzar, lanzar, acuchillar				totá L		
+853	Chacon 2014	0	0	stab	stab, general		picar, puñalar, chuzar, lanzar, acuchillar				hahu		
+854	Chacon 2014	0	0	plant yuca	stab, general		picar, puñalar, chuzar, lanzar, acuchillar				hẽ		
+855	Chacon 2016	0	0	plant maze	stab, general		picar, puñalar, chuzar, lanzar, acuchillar				totá L		
+856	Chacon 2014	0	0	stick a needle	stab, put sth straight in ground and at least partially within ground, e.g. in planting manioc, VT, NON-PLACT		chuzar, meter, inyectar				doá		
+857	Chacon 2016	0	0	stab	stab, put sth straight in ground and at least partially within ground, e.g. in planting manioc, VT, NON-PLACT		chuzar, meter, inyectar				totá L		
+858	Chacon 2014	0	0	stab	stab, put sth straight in ground and at least partially within ground, e.g. in planting manioc, VT, NON-PLACT		chuzar, meter, inyectar				hahu		
+859	Chacon 2014	0	0	plant yuca	stab, put sth straight in ground and at least partially within ground, e.g. in planting manioc, VT, NON-PLACT		chuzar, meter, inyectar				hẽ		
+860	Chacon 2016	0	0	plant maze	stab, put sth straight in ground and at least partially within ground, e.g. in planting manioc, VT, NON-PLACT		chuzar, meter, inyectar				totá L		
+862	Chacon 2014	0	0	stand up	stand up (telic VI)		pararse				dãkã́hã̀		
+863	Chacon 2016	0	0	estar parado	stand up (telic VI)		pararse				dṹ L		
+864	Chacon 2014	0	0	star	star		estrella				abiá L		
+865	Chacon 2014	0	0	steal	steal		robar				yãwá		
+866	Chacon 2014	0	0	stick	stick		palo, palito				hokɨ́yò		
+867	Chacon 2014	0	0	stick	stick		palo, palito				abóyò		
+868	Chacon 2014	0	0	stick something to	stick sth to surface (VT), NON-PLACT		apegar				hẽó		
+869	Chacon 2014	0	0	stick a stick into	stick sth to surface (VT), NON-PLACT		apegar				piawá		
+871	Chacon 2014	0	0	stick to	stick to (VI)		apegarse				hẽ́		voz média
+872	Chacon 2016	0	0	apegarse	stick to (VI)		apegarse				hɨtɨ te		
+873	Chacon 2014	0	0	hang	stick to (VI)		apegarse				yuyu		
+874	Chacon 2014	0	0	stingray	stinɡray		raya				padábè̃bo		
+875	Chacon 2014	0	0	spin	stir, twirl stick by rubbing palms together, as in starting fire or stirring/whipping a liquid		batir, rodar utensilio				wãiyṍ		
+876	Chacon 2014	0	0	spin	stir, twirl stick by rubbing palms together, as in starting fire or stirring/whipping a liquid		batir, rodar utensilio				hãpɨ̃́rì̃		
+877	Chacon 2014	0	0	stone	stone		piedra				kɨ̃dã́bò		
+878	Chacon 2014	0	0	stop	stop (VI)		parar, cesar				dahókà		
+879	Chacon 2014	0	0	straight	straight (of path)		derecho				dṹdĩ		
+880	Chacon 2014	0	0	strain	strain liquid (VT)		colar (cernir)				pipé		
+881	Chacon 2014	0	0	strain	strain liquid (VT)		colar (cernir)				kõtṍ L		
+882	Chacon 2014	0	0	stream	stream		quebrada, arroyo (riachuelo)				hiáhì̃ya		
+883	Chacon 2014	0	0	smaller stream from the jungle	stream		quebrada, arroyo (riachuelo)				bãká hìa		
+884	Chacon 2014	0	0	strech	stretch out, spread out, of 2D object, VT		tender				hapɨ́pò		
+885	Chacon 2016	0	0	stretch	stretch out, spread out, of 2D object, VT		tender				dabɨ́bò		
+886	Chacon 2016	0	0	tender la ropa	stretch out, spread out, of 2D object, VT		tender				hapópò		
+887	Morse et. al. 2000	0	0	estirar-se	stretch, extend noun:body part (VT)		estirar				kobɨ́dɨdɨ L		
+888	Chacon 2016	0	0	straighten one's body	stretch, extend noun:body part (VT)		estirar				dũdĩ́ àyɨ		
+889	Chacon 2014	0	0	suck, smoke	suck		chupar				dù̃ H		
+890	Chacon 2014	0	0	sugar cane	sugar cane		caña de azucar				kawá bè̃dẽ		
+891	Chacon 2014	0	0	sun	Sun		sol				awiá hãdãwɨkakɨ		
+892	Chacon 2014	0	0	swallow	swallow		tragar				hãdɨ̃ó L		
+893	Chacon 2014	0	0	sweat	sweat	suar	sudar				ihoa		querari
+894	Chacon 2014	0	0	sweat	sweat	suar	sudar				ihowe		santa cruz
+895	Chacon 2014	0	0	sweep	sweep		barrer				oé		
+896	Chacon 2014	0	0	cará, batata doce	sweet potato		camote				yapíká		
+897	Chacon 2014	0	0	swell	swell		hincharse				kokódò		
+898	Chacon 2016	0	0	whole body swells	swell		hincharse				hãbɨ̃́ L		
+899	Morse et. al. 2000	0	0	inchar-se	swell		hincharse				hãbũi		
+900	Chacon 2014	0	0	swim	swim		nadar				tà H		
+901	Chacon 2014	0	0	tail	tail		rabo, cola				pĩkṍ- L		
+902	Chacon 2014	0	0	take	take (VT)		llevar				dɨ̃-wá L		go CAUSATIVE
+903	Chacon 2016	0	0	tamanduá mirim	tamandua (Tamandua spp.)		shihui				bĩhákɨ̀		
+904	Chacon 2014	0	0	tamarin	tamarin, emperor, Saguinus spp.		pichico				abúhù+hihiyo		
+905	Chacon 2014	0	0	tapiri	tambo, temporary palm shelter	tapiri	tambo				úkũ		
+906	Chacon 2014	0	0	tapir	tapir, Tapirus terrestris		sachavaca, danta, tapir				wekɨ́ L		
+907	Chacon 2014	0	0	Eira barbara	tayra, Eira spp.		manco, zorro guache, eirá				wahókà+yawí L		
+908	Morse et. al. 2000	0	0	Eira barbara	tayra, Eira spp.		manco, zorro guache, eirá				t∫ípùri		
+909	Chacon 2014	0	0	teach, learn	teach		enseñar				bué		borrowing from LG
+910	Chacon 2014	0	0	tear	tear, break flexible obj, VT		desgarrar, rasgar, romper				koyéwà		
+911	Chacon 2014	0	0	tear	tear, break flexible obj, VT		desgarrar, rasgar, romper				hayéwà		
+912	Chacon 2014	0	0	tear from a hole	tear, break, of sth flexible, VI		romperse (algo flexible)				koyé L		
+913	Chacon 2014	0	0	tear	tear, break, of sth flexible, VI		romperse (algo flexible)				hayé		
+914	Chacon 2014	0	0	tell	tell, tell story, warn, teach		contar, avisar				koyɨ́ L		
+915	Chacon 2014	0	0	termite	termite		comejen				bokóbĩ̀-		
+916	Chacon 2014	0	0	testicles	testicles		testículos				kãpẽ́dɨ̀		
+917	Chacon 2014	0	0	thatch a roof	thatch a roof		techar, empajar, forrar				bũi+tɨo		leaf put
+918	Chacon 2014	0	0	thatch palm	thatch palm		irapay, puy, huasipanga, caraná				bũí L		generic
+919	Chacon 2014	0	0	thick	thick (dimension)		grueso				edú L		
+920	Chacon 2016	0	0	thick	thick, pasty, of liquid		espeso				hikɨ́rṍ		
+921	Morse et. al. 2000	0	0	thick, pasty	thick, pasty, of liquid		espeso				dakabo		
+922	Chacon 2014	0	0	thigh	thigh		muslo				tõád`ɨ		see kubeo 'knee' cognate with other et languages
+923	Chacon 2014	0	0	think	think		pensar				dápià		
+924	Chacon 2014	0	0	think, remember	think		pensar				ãdɨ̃́ L		
+925	Chacon 2014	0	0	thorn	thorn		espina				bĩú L		
+926	Chacon 2014	0	0	three	three		tres				yóbèkɨri		
+927	Chacon 2014	0	0	throw	throw (sth through the air, to another noun:person, NOT throw away)		tirar, echar				dɨwá L		
+928	Chacon 2014	0	0	thunder	thunder (V)		tronar				õpṍ+tɨ̀		thunder fall
+929	Chacon 2014	0	0	thunder	thunder spirit (N)		trueno				õpṍ L		
+930	Chacon 2014	0	0	tick	tick		garrapata				kõyṍhò̃		
+931	Chacon 2014	0	0	tie	tie (general)		amarrar, atar				bɨó		
+932	Chacon 2014	0	0	tie	tie (general)		amarrar, atar				tãitõ		
+933	Chacon 2016	0	0	tie cord to itself	tie cord to itself, make loop		enrollar soga				kũtṹdù̃wa		
+934	Chacon 2016	0	0	tie	tie sth up (not w loop), bind sth with cord, NON-PLACT		amarrar				bɨó L		
+936	Chacon 2014	0	0	tobacco	tobacco		tabaco				but∫í L		
+937	Chacon 2014	0	0	toe	toe		dedo de pie				kɨbóyó		
+938	Chacon 2014	0	0	tomorrow	tomorrow		mañana				hawédã́		
+939	Chacon 2014	0	0	tongue	tongue		lengua				hẽbẽ́dó		
+940	Chacon 2014	0	0	tooth	tooth		diente				kõpĩ́ L		
+941	Chacon 2014	0	0	toucan	toucan		tucán, pinsha				hoéwè		
+943	Chacon 2014	0	0	tree	tree		árbol, palo				hokɨ́kɨ		
+944	Chacon 2014	0	0	jacamim	trumpeter, Psophia crepitans		trompetero				tãitɨ́rɨ̀		
+945	Chacon 2014	0	0	trunk	trunk (of tree)		tronco				podádɨ̃		
+946	Chacon 2014	0	0	nhame	tuber, Dioscorea sp.		sachapapa				yãbṹ		
+947	Chacon 2014	0	0	turn	turn (general), turn around in place exactly once (VI)		voltearse				kopédì		
+948	Chacon 2014	0	0	dar voltas	turn (general), turn around in place exactly once (VI)		voltearse				hãpɨ̃rĩ		
+949	Chacon 2014	0	0	turn	turn sth around, overturn sth, NON-PLACT (VT)		voltear				kopédìowa		
+951	Chacon 2014	0	0	turtle	turtle, aquatic, general		tortuga (acuatica)				hia+kũɨbo		
+952	Chacon 2014	0	0	thigh spin	twist (VT), thigh spin		torcer (chambira, hilos, sogas), trenzar				oya		
+953	Chacon 2014	0	0	make a twist, tie	twist (VT), thigh spin		torcer (chambira, hilos, sogas), trenzar				tãitõ		
+954	Chacon 2016	0	0	twist	twist (VT), thigh spin		torcer (chambira, hilos, sogas), trenzar				kũtṹrù̃wa		
+955	Chacon 2014	0	0	trenzar	twist (VT), thigh spin		torcer (chambira, hilos, sogas), trenzar				'pẽó L		
+956	Chacon 2014	0	0	twist	twist, revolve (VI) until twisted		torcerse				tada		?
+957	Chacon 2014	0	0	two	two		dos				pɨká		
+958	Chacon 2014	0	0	unripe fruit	unripe		verde (fruta)				kãbẽ́		
+959	Chacon 2014	0	0	untie	untie (VT)		desatar				kohóyòwa		
+960	Chacon 2014	0	0	untie	untie (VT)		desatar				hoyé L		
+961	Chacon 2014	0	0	upriver	upriver		río arriba				hiwá L		
+962	Chacon 2014	0	0	urinate	urinate		orinar				kõdẽ́ L		
+963	Chacon 2014	0	0	vagina	vagina		vagina				dõédò		
+964	Chacon 2014	0	0	vein	vein, artery		vena, arteria				pɨ̃pɨ̃́bè̃		
+965	Chacon 2014	0	0	village	village		pueblo, comunidad				ibã́rõ̀		cognate with tanimuka copula ibã
+966	Chacon 2014	0	0	vomit	vomit		vomitar				bihó L		
+967	Chacon 2014	0	0	vomit	vomit		vomitar				bɨhó L		
+968	Chacon 2014	0	0	vulture	vulture		buitre, gallinazo				kawá L		
+969	Morse et. al. 2000	0	0	waist	waist/hips		cinturon, cadera				yɨ̃áka		
+970	Morse et. al. 2000	0	0	waist bone	waist/hips		cinturon, cadera				kɨdá+kũaðo		
+971	Morse et. al. 2000	0	0	waist bone	waist/hips		cinturon, cadera				kɨdá+kũawa		
+972	Chacon 2014	0	0	wait	wait for		esperar				kodéyɨ́		
+973	Chacon 2014	0	0	wake up	wake up, VI		despertarse				koédà		
+974	Chacon 2014	0	0	wake sb up	wake up, VT		despertar				koédàwa		
+975	Chacon 2014	0	0	walk	walk		caminar				ku H		
+976	Chacon 2014	0	0	walk	walk		caminar				dádà		
+977	Chacon 2014	0	0	walk	walk		caminar				waiwá L		
+978	Chacon 2014	0	0	wall dividing a maloca	wall, fence		pared, cerco				kotɨ́rɨìba		
+979	Chacon 2014	0	0	wall	wall, fence		pared, cerco				hɨrɨ́ibà		
+980	Chacon 2014	0	0	want	want		querer				ɨ HL		see cognates in other ET in eat
+981	Chacon 2014	0	0	wash	wash		lavar				hoá		see koe CLEAN for cognates with other ET
+982	Chacon 2014	0	0	wasp	wasp, general		avispa				ut∫í L		
+983	Chacon 2014	0	0	water	water		agua				okó L		
+984	Chacon 2014	0	0	weave	weave (leaves into basket)		tejer hoja				kãtẽ́ L		
+985	Chacon 2014	0	0	weave	weave (leaves into basket)		tejer hoja				hawió L		
+986	Chacon 2014	0	0	weave	weave (leaves into thatch)		tejer crizneja				kãtẽ́ L		
+987	Chacon 2014	0	0	weave	weave (leaves into thatch)		tejer crizneja				hawió L		
+988	Chacon 2014	0	0	weave	weave (thread or cord)		tejer, trenzar				kãtẽ́ L		
+989	Chacon 2014	0	0	weave	weave (thread or cord)		tejer, trenzar				hawió L		
+990	Chacon 2014	0	0	weed	weed (V)		cultivar, desyerbar				yẽyẽ́		
+991	Chacon 2014	0	0	weed	weed (V)		cultivar, desyerbar				hehó		
+992	Morse et. al. 2000	0	0	whisper	whisper		susurrar				hũhṹwà		
+993	Chacon 2014	0	0	whistle	whistle		silbar				kowió L		
+994	Chacon 2014	0	0	wife	wife		esposa				bã́dè+pako		
+995	Chacon 2014	0	0	wild cane	wild cane (Sagittatum sp.)		caña brava				waé L		
+996	Chacon 2014	0	0	wild plantain	wild plantain		plátano (silvestre)				ó L		
+997	Chacon 2014	0	0	wind	wind		viento				ũbẽ́wɨ L		
+998	Chacon 2014	0	0	wing	wing		ala				kawé L		
+999	Chacon 2014	0	0	wipe	wipe		borrar, limpiar frotando				tɨ̃dẽ́ L		
+1000	Chacon 2014	0	0	shaman	witch, shaman		brujo, chamán, payé, médico, curandero, etc.				yawí L		
+1001	Chacon 2014	0	0	woman	woman		mujer				dõbĩó L		
+1002	Chacon 2014	0	0	wooly monkey	woolly monkey, Lagothrix spp.		(mono) choro				kapádò		
+1003	Chacon 2014	0	0	work	work (VI)		trabajar				bẽbẽ́		
+1004	Chacon 2014	0	0	earthworm	worm, earthworm, NOT parasitic		lombriz				kṹkɨ̀		
+1005	Chacon 2014	0	0	parasitic worm	worm, parasitic, internal		gusano, lombriz				kṹkɨ̀		
+1006	Chacon 2014	0	0	wound	wound (N)		herida				t∫udí		
+1007	Chacon 2014	0	0	wrap	wrap (VT)		envolver				kũbã́ L		
+1008	Chacon 2014	0	0	wrist	wrist		muñeca				pɨdɨ́ká		
+1009	Chacon 2014	0	0	adolescent	young noun:person, young man, young woman		joven, señorita, chica				bohɨ́yò		
+1010	Chacon 2014	0	0	younger sibling	younger sibling, younger brother, younger sister		hermano/hermana menor				yó- L		
