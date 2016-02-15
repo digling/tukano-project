@@ -1,0 +1,54 @@
+	Language	Licit symbols in quasi-phonemic representation	IPA equivalents	description
+	Karapana			
+		p	p	voiceless bilabial stop
+		b	b	voiced bilabial stop
+		m	m	bilabial nasal stop
+		t	t	voiceless alveolar stop
+		d	d	voiced alveolar stop
+		r	ɾ	alveolar tap
+		n	n	alveolar nasal stop
+		s	s	voiceless alveolar fricative
+		k	k	voicless velar stop
+		ɡ	ɡ	voiced velar stop
+		h	h	voiceless glottal fricative
+		j	dʒ	voiced palato-alveolar affricate
+		ɲ	ɲ	palatal nasal stop
+		w	w	voiced labiovelar approximant
+		i	i	high front unrounded vowel
+		ĩ	ĩ	nasal high front unrounded vowel
+		í	í	high tone oral high front unrounded vowel
+		ì	ì	low tone oral high front unrounded vowel
+		ĩ́	ĩ́	high tone nasal high front unrounded vowel
+		ĩ̀	ĩ̀	low tone nasal high front unrounded vowel
+		ɨ	ɨ	high central unrounded vowel
+		ɨ̃	ɨ̃	nasal high central unrounded vowel
+		ɨ́	ɨ́	high tone oral high central unrounded vowel
+		ɨ̀	ɨ̀	low tone oral high central unrounded vowel
+		ɨ̃́	ɨ̃́	high tone nasal high central unrounded vowel
+		ɨ̃̀ 	ɨ̃̀ 	low tone nasal high central unrounded vowel
+		u	u	high back rounded vowel
+		ũ	ũ	nasal high back rounded vowel
+		ú	ú	high tone oral high back rounded vowel
+		ù	ù	low tone oral high back rounded vowel
+		ṹ 	ṹ 	high tone nasal high back rounded vowel
+		ũ̀ 	ũ̀ 	low tone nasal high back rounded vowel
+		e	e	mid front unrounded vowel
+		ẽ	ẽ	nasal mid front unrounded vowel
+		é	é	high tone oral mid front unrounded vowel
+		è 	è 	low tone oral mid front unrounded vowel
+		ẽ́ 	ẽ́ 	high tone nasal mid front unrounded vowel
+		ẽ̀	ẽ̀	low tone nasal mid front unrounded vowel
+		o	o	mid back rounded vowel
+		õ	õ	nasal mid back rounded vowel
+		ó	ó	high tone oral mid back rounded vowel
+		ò	ò	low tone oral mid back rounded vowel
+		ṍ	ṍ	high tone nasal mid back rounded vowel
+		õ̀	õ̀	low tone nasal mid back rounded vowel
+		a	a	low front unrounded vowel
+		ã	ã	nasal low front unrounded vowel
+		á	á	high tone oral low front unrounded vowel
+		à	à	low tone oral low front unrounded vowel
+		ã́	ã́	high tone nasal low front unrounded vowel
+		ã̀	ã̀	low tone nasal low front unrounded vowel
+		́			stress
+		 		"space" root boundary in compounds
