@@ -24,3 +24,6 @@ c. enter 1, 2, 3, etc in the ORF field to represent the order of meanings
 d. make sure that the translations fields have one meaning each and adjust accordingly
 
 LAST STEP: After you have done all adjustments involving polysemous words, sort the spreadsheet according to the ID field. All the newly created rows that have no ID numbers will be at the bottom. Assign them consecutive unique numbers (this way we are sure they are unique).
+
+## Treatment of LAX rows
+the concept in english followed by the tag -LAX will be moved automatically to the CSA field (comment of the compiler), while all translation fields except the original translation one will be left empty. The TUE field (unified english translation) needs to be filled in appropriately by the person correcting the corresponding importation template.
